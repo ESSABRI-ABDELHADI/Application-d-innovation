@@ -1,0 +1,2497 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-09">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Isaac" label="Isaac" />
+      <node id="Asimov" label="Asimov" />
+      <node id="Barr" label="Barr" />
+      <node id="Patricien" label="Patricien" />
+      <node id="Galaxie" label="Galaxie" />
+      <node id="Siwenna" label="Siwenna" />
+      <node id="Siwennien" label="Siwennien" />
+      <node id="Riose" label="Riose" />
+      <node id="Marchand" label="Marchand" />
+      <node id="Seldon" label="Seldon" />
+      <node id="Bah" label="Bah" />
+      <node id="Voyons" label="Voyons" />
+      <node id="Empire" label="Empire" />
+      <node id="Bel" label="Bel" />
+      <node id="Hardin" label="Hardin" />
+      <node id="Mallow" label="Mallow" />
+      <node id="Salvor" label="Salvor" />
+      <node id="Hober" label="Hober" />
+      <node id="II" label="II" />
+      <node id="Allons" label="Allons" />
+      <node id="Cléon" label="Cléon" />
+      <node id="Maître" label="Maître" />
+      <node id="Combien" label="Combien" />
+      <node id="V" label="V" />
+      <node id="Marchands" label="Marchands" />
+      <node id="Devers" label="Devers" />
+      <node id="Merci" label="Merci" />
+      <node id="Regardez" label="Regardez" />
+      <node id="Certainement" label="Certainement" />
+      <node id="Savez" label="Savez" />
+      <node id="brave" label="brave" />
+      <node id="Mes" label="Mes" />
+      <node id="Dehors" label="Dehors" />
+      <node id="Auprès" label="Auprès" />
+      <node id="Hein" label="Hein" />
+      <node id="Bon" label="Bon" />
+      <node id="Imaginez" label="Imaginez" />
+      <node id="Trantor" label="Trantor" />
+      <node id="Voilà" label="Voilà" />
+      <node id="N'" label="N'" />
+      <node id="Recherchés" label="Recherchés" />
+      <node id="Son" label="Son" />
+      <node id="Forell" label="Forell" />
+      <node id="Appelez" label="Appelez" />
+      <node id="Fran" label="Fran" />
+      <node id="grommela" label="grommela" />
+      <node id="Ma" label="Ma" />
+      <node id="Randu" label="Randu" />
+      <node id="Kalgan" label="Kalgan" />
+      <node id="Mulet" label="Mulet" />
+      <node id="Seigneur" label="Seigneur" />
+      <node id="Bayta" label="Bayta" />
+      <node id="Continuez" label="Continuez" />
+      <node id="Excellence" label="Excellence" />
+      <node id="Hangar" label="Hangar" />
+      <node id="Magnifico" label="Magnifico" />
+      <node id="Pritcher" label="Pritcher" />
+      <node id="Mis" label="Mis" />
+      <node id="Indbur" label="Indbur" />
+      <node id="Horleggor" label="Horleggor" />
+      <node id="Manchot" label="Manchot" />
+      <node id="Messieurs" label="Messieurs" />
+      <node id="Terel" label="Terel" />
+      <node id="Monsieur" label="Monsieur" />
+      <node id="Magnifiée" label="Magnifiée" />
+      <node id="Mnémon" label="Mnémon" />
+      <node id="hein" label="hein" />
+      <node id="Détectés" label="Détectés" />
+      <node id="Filia" label="Filia" />
+      <node id="Jamais" label="Jamais" />
+      <node id="Lee" label="Lee" />
+      <node id="Senter" label="Senter" />
+      <node id="Gente" label="Gente" />
+      <node id="Pouvez" label="Pouvez" />
+      <node id="Bay" label="Bay" />
+      <node id="Trevize" label="Trevize" />
+      <node id="Madame" label="Madame" />
+      <node id="Branno" label="Branno" />
+      <node id="Golan" label="Golan" />
+      <node id="Liono" label="Liono" />
+      <node id="Kodell" label="Kodell" />
+      <node id="Avez" label="Avez" />
+      <node id="Terminus" label="Terminus" />
+      <node id="Darell" label="Darell" />
+      <node id="Arkady" label="Arkady" />
+      <node id="lutta" label="lutta" />
+      <node id="madame" label="madame" />
+      <node id="parsec" label="parsec" />
+      <node id="Historien" label="Historien" />
+      <node id="Janov" label="Janov" />
+      <node id="Pelorat" label="Pelorat" />
+      <node id="Secteur" label="Secteur" />
+      <node id="Réfléchissez" label="Réfléchissez" />
+      <node id="Ecoutez" label="Ecoutez" />
+      <node id="Orateur" label="Orateur" />
+      <node id="Gendibal" label="Gendibal" />
+      <node id="Preem" label="Preem" />
+      <node id="Palver" label="Palver" />
+      <node id="Pal" label="Pal" />
+      <node id="pépin" label="pépin" />
+      <node id="Anacréon" label="Anacréon" />
+      <node id="Seulement" label="Seulement" />
+      <node id="Table" label="Table" />
+      <node id="Quiconque" label="Quiconque" />
+      <node id="Rufirant" label="Rufirant" />
+      <node id="Shandess" label="Shandess" />
+      <node id="Delarmi" label="Delarmi" />
+      <node id="Sura" label="Sura" />
+      <node id="Oratrice" label="Oratrice" />
+      <node id="Hyperespace" label="Hyperespace" />
+      <node id="Gaïa" label="Gaïa" />
+      <node id="Inutile" label="Inutile" />
+      <node id="Poursuivez" label="Poursuivez" />
+      <node id="Mettre" label="Mettre" />
+      <node id="Superbe" label="Superbe" />
+      <node id="Descendons" label="Descendons" />
+      <node id="Sinon" label="Sinon" />
+      <node id="Guère" label="Guère" />
+      <node id="Comporellon" label="Comporellon" />
+      <node id="T" label="T" />
+      <node id="Intéressant" label="Intéressant" />
+      <node id="Grâces" label="Grâces" />
+      <node id="Quintesetz" label="Quintesetz" />
+      <node id="Professeur" label="Professeur" />
+      <node id="Vos" label="Vos" />
+      <node id="Ecoute" label="Ecoute" />
+      <node id="Détendez" label="Détendez" />
+      <node id="Hamiens" label="Hamiens" />
+      <node id="Maîtres" label="Maîtres" />
+      <node id="Primo" label="Primo" />
+      <node id="Impossible" label="Impossible" />
+      <node id="Joie" label="Joie" />
+      <node id="Pel" label="Pel" />
+      <node id="Trev" label="Trev" />
+      <node id="Dom" label="Dom" />
+      <node id="Supposez" label="Supposez" />
+      <node id="Rappelez" label="Rappelez" />
+      <node id="Scychellois" label="Scychellois" />
+      <node id="Us" label="Us" />
+      <node id="Gaal" label="Gaal" />
+      <node id="Avakim" label="Avakim" />
+      <node id="Chen" label="Chen" />
+      <node id="pouviez" label="pouviez" />
+      <node id="Commissaire" label="Commissaire" />
+      <node id="Santanni" label="Santanni" />
+      <node id="Anselme" label="Anselme" />
+      <node id="Rodric" label="Rodric" />
+      <node id="Dorwin" label="Dorwin" />
+      <node id="Fara" label="Fara" />
+      <node id="Alurin" label="Alurin" />
+      <node id="Sermak" label="Sermak" />
+      <node id="inquiétude" label="inquiétude" />
+      <node id="Verisof" label="Verisof" />
+      <node id="Wienis" label="Wienis" />
+      <node id="Lepold" label="Lepold" />
+      <node id="Ton" label="Ton" />
+      <node id="Gardez" label="Gardez" />
+      <node id="haut-le-corps" label="haut-le-corps" />
+      <node id="Gorov" label="Gorov" />
+      <node id="Askone" label="Askone" />
+      <node id="Numéro" label="Numéro" />
+      <node id="Pherl" label="Pherl" />
+      <node id="menton" label="menton" />
+      <node id="Manlio" label="Manlio" />
+      <node id="Twer" label="Twer" />
+      <node id="Parlez" label="Parlez" />
+      <node id="Astronef" label="Astronef" />
+      <node id="Jugez" label="Jugez" />
+      <node id="Hu" label="Hu" />
+      <node id="Mauvais" label="Mauvais" />
+      <node id="Lumière" label="Lumière" />
+      <node id="Jael" label="Jael" />
+      <node id="Accusez" label="Accusez" />
+      <node id="Nul" label="Nul" />
+      <node id="Channis" label="Channis" />
+      <node id="Confiance" label="Confiance" />
+      <node id="Tazenda" label="Tazenda" />
+      <node id="montrez" label="montrez" />
+      <node id="Seriez" label="Seriez" />
+      <node id="conquérant" label="conquérant" />
+      <node id="Heureuse" label="Heureuse" />
+      <node id="Anthor" label="Anthor" />
+      <node id="Turbor" label="Turbor" />
+      <node id="Homir" label="Homir" />
+      <node id="Munn" label="Munn" />
+      <node id="Stettin" label="Stettin" />
+      <node id="Meirus" label="Meirus" />
+      <node id="Barbe-" label="Barbe-" />
+      <node id="Grise" label="Grise" />
+      <node id="Brave" label="Brave" />
+      <node id="Poli" label="Poli" />
+      <node id="Kleise" label="Kleise" />
+      <node id="Papa" label="Papa" />
+      <node id="Répondez" label="Répondez" />
+      <node id="Dirige" label="Dirige" />
+      <node id="Maman" label="Maman" />
+      <node id="Fini" label="Fini" />
+      <node id="Korell" label="Korell" />
+      <node id="Massena" label="Massena" />
+      <node id="Smushyk" label="Smushyk" />
+      <node id="Palvro" label="Palvro" />
+      <node id="Bravo" label="Bravo" />
+      <node id="Semic" label="Semic" />
+      <node id="Hochement" label="Hochement" />
+      <node id="Naturellement" label="Naturellement" />
+      <node id="Ferez" label="Ferez" />
+      <node id="supposez" label="supposez" />
+      <node id="Gaïens" label="Gaïens" />
+      <node id="railla" label="railla" />
+      <node id="Kendray" label="Kendray" />
+      <node id="Lizalor" label="Lizalor" />
+      <node id="Y" label="Y" />
+      <node id="Vulgarisme" label="Vulgarisme" />
+      <node id="Gros" label="Gros" />
+      <node id="Deniador" label="Deniador" />
+      <node id="Adieu" label="Adieu" />
+      <node id="Souvenez" label="Souvenez" />
+      <node id="Aurora" label="Aurora" />
+      <node id="Bander" label="Bander" />
+      <node id="Souriante" label="Souriante" />
+      <node id="Incroyable" label="Incroyable" />
+      <node id="Comprenez" label="Comprenez" />
+      <node id="Entrez" label="Entrez" />
+      <node id="Regardant" label="Regardant" />
+      <node id="Fallom" label="Fallom" />
+      <node id="Négligemment" label="Négligemment" />
+      <node id="Retourner" label="Retourner" />
+      <node id="Hmmmm" label="Hmmmm" />
+      <node id="Baissant" label="Baissant" />
+      <node id="Levez" label="Levez" />
+      <node id="Viens" label="Viens" />
+      <node id="Alpha" label="Alpha" />
+      <node id="Bêta" label="Bêta" />
+      <node id="Hiroko" label="Hiroko" />
+      <node id="tirez" label="tirez" />
+      <node id="Laisser" label="Laisser" />
+      <node id="considérez" label="considérez" />
+      <node id="Jemby" label="Jemby" />
+      <node id="Dégagez" label="Dégagez" />
+      <node id="Daneel" label="Daneel" />
+      <node id="Bonne" label="Bonne" />
+      <node id="Hyperspatialement" label="Hyperspatialement" />
+      <node id="Charte" label="Charte" />
+      <node id="auguste" label="auguste" />
+      <node id="Quels" label="Quels" />
+      <node id="diriez" label="diriez" />
+      <node id="Voudriez" label="Voudriez" />
+      <node id="Radole" label="Radole" />
+      <node id="Rares" label="Rares" />
+      <node id="Mangin" label="Mangin" />
+      <node id="Emmenez" label="Emmenez" />
+      <node id="Juddee" label="Juddee" />
+      <node id="Hella" label="Hella" />
+      <node id="Néotrantor" label="Néotrantor" />
+      <node id="Commason" label="Commason" />
+      <node id="Inchney" label="Inchney" />
+      <node id="Gilmer" label="Gilmer" />
+      <node id="Retournez" label="Retournez" />
+      <node id="Hannis" label="Hannis" />
+      <node id="Vois" label="Vois" />
+      <node id="Flexner" label="Flexner" />
+      <node id="Mettez" label="Mettez" />
+      <node id="Voire" label="Voire" />
+      <node id="Connaissez" label="Connaissez" />
+      <node id="Permettez" label="Permettez" />
+      <node id="Fermez" label="Fermez" />
+      <node id="détendez" label="détendez" />
+      <node id="Déviations" label="Déviations" />
+      <node id="Sauriez" label="Sauriez" />
+      <node id="J.L.G." label="J.L.G." />
+      <node id="Hamien" label="Hamien" />
+      <node id="brun" label="brun" />
+      <node id="Vas" label="Vas" />
+      <node id="Concentrez" label="Concentrez" />
+      <node id="Finissez" label="Finissez" />
+      <node id="criard" label="criard" />
+      <node id="Considérez" label="Considérez" />
+      <node id="Sobhaddartha" label="Sobhaddartha" />
+      <node id="Surgi" label="Surgi" />
+      <node id="Accordez" label="Accordez" />
+      <node id="Vus" label="Vus" />
+      <node id="Hamienne" label="Hamienne" />
+      <node id="Fondamentale" label="Fondamentale" />
+      <node id="Globusculaire" label="Globusculaire" />
+      <node id="Magnifique" label="Magnifique" />
+      <node id="Censé" label="Censé" />
+      <node id="Anonymement" label="Anonymement" />
+      <node id="Saisir" label="Saisir" />
+      <node id="Trantorien" label="Trantorien" />
+      <node id="Décevez" label="Décevez" />
+      <node id="Maigre" label="Maigre" />
+      <node id="Joidilachicarella" label="Joidilachicarella" />
+      <node id="Avancez" label="Avancez" />
+      <node id="Doms" label="Doms" />
+      <node id="Gaïen" label="Gaïen" />
+      <node id="Gennerat" label="Gennerat" />
+      <node id="Racontez" label="Racontez" />
+      <node id="Victimes" label="Victimes" />
+      <node id="Passez" label="Passez" />
+      <node id="Brann" label="Brann" />
+      <node id="Storgendibal" label="Storgendibal" />
+      <node id="Canalisée" label="Canalisée" />
+      <node id="Gaï'" label="Gaï'" />
+      <node id="Lois" label="Lois" />
+      <node id="Coincez" label="Coincez" />
+      <node id="Jerril" label="Jerril" />
+      <node id="Cellomet" label="Cellomet" />
+      <node id="Entuns" label="Entuns" />
+      <node id="Prenez" label="Prenez" />
+      <node id="Fulham" label="Fulham" />
+      <node id="Lameth" label="Lameth" />
+      <node id="Cigare" label="Cigare" />
+      <node id="Bort" label="Bort" />
+      <node id="Walto" label="Walto" />
+      <node id="pro-Hardin" label="pro-Hardin" />
+      <node id="Faute" label="Faute" />
+      <node id="Guilde" label="Guilde" />
+      <node id="teniez" label="teniez" />
+      <node id="Parma" label="Parma" />
+      <node id="Maintenez" label="Maintenez" />
+      <node id="Renforcez" label="Renforcez" />
+      <node id="Licia" label="Licia" />
+      <node id="Drawt" label="Drawt" />
+      <node id="Stannell" label="Stannell" />
+      <node id="Filez" label="Filez" />
+      <node id="Jolis" label="Jolis" />
+      <node id="Rendez" label="Rendez" />
+      <node id="Supposons" label="Supposons" />
+      <node id="Suivit" label="Suivit" />
+      <node id="Huxlani" label="Huxlani" />
+      <node id="Charnus" label="Charnus" />
+      <node id="Risqué" label="Risqué" />
+      <node id="témoignerez" label="témoignerez" />
+      <node id="Rassuré" label="Rassuré" />
+      <node id="Pensiez" label="Pensiez" />
+      <node id="Gagner" label="Gagner" />
+      <node id="Extirper" label="Extirper" />
+      <node id="Regrettez" label="Regrettez" />
+      <node id="Romancière" label="Romancière" />
+      <node id="Impasse" label="Impasse" />
+      <node id="Poochie" label="Poochie" />
+      <node id="rejeton" label="rejeton" />
+      <node id="Miséricorde" label="Miséricorde" />
+      <node id="Administrateur" label="Administrateur" />
+      <node id="Puissiez" label="Puissiez" />
+      <node id="Donne" label="Donne" />
+      <node id="Suivrez" label="Suivrez" />
+      <node id="Incrusté" label="Incrusté" />
+      <node id="Partirez" label="Partirez" />
+      <node id="Ben" label="Ben" />
+      <node id="Tipellum" label="Tipellum" />
+      <node id="Existe" label="Existe" />
+      <node id="Amiral" label="Amiral" />
+      <node id="Demeuré" label="Demeuré" />
+      <node id="Aidez" label="Aidez" />
+      <node id="Père" label="Père" />
+      <node id="Touché" label="Touché" />
+      <node id="Comporellien" label="Comporellien" />
+      <node id="Puissance" label="Puissance" />
+      <node id="Certaine" label="Certaine" />
+      <node id="Yariff" label="Yariff" />
+      <node id="Baleyworld" label="Baleyworld" />
+      <node id="Meurtrier" label="Meurtrier" />
+      <node id="Chair" label="Chair" />
+      <node id="Guetter" label="Guetter" />
+      <node id="Donnez" label="Donnez" />
+      <node id="désactiverez" label="désactiverez" />
+      <node id="Salaria" label="Salaria" />
+      <node id="Fallorn" label="Fallorn" />
+      <node id="Montrez" label="Montrez" />
+      <node id="Melpomenia" label="Melpomenia" />
+      <node id="Erda" label="Erda" />
+      <node id="Revenez" label="Revenez" />
+      <node id="Fili" label="Fili" />
+      <node id="Alphans" label="Alphans" />
+      <node id="Alphane" label="Alphane" />
+      <node id="Refermez" label="Refermez" />
+      <node id="Rendons" label="Rendons" />
+      <node id="Rétrospectivement" label="Rétrospectivement" />
+    </nodes>
+    <edges>
+      <edge source="Isaac" target="Asimov" id="0" />
+      <edge source="Isaac" target="Riose" id="1" />
+      <edge source="Isaac" target="Merci" id="2" />
+      <edge source="Isaac" target="Trevize" id="3" />
+      <edge source="Isaac" target="Gaïa" id="4" />
+      <edge source="Asimov" target="Riose" id="5" />
+      <edge source="Asimov" target="Merci" id="6" />
+      <edge source="Asimov" target="Trevize" id="7" />
+      <edge source="Asimov" target="Galaxie" id="8" />
+      <edge source="Asimov" target="Gaïa" id="9" />
+      <edge source="Barr" target="Patricien" id="10" />
+      <edge source="Barr" target="Riose" id="11" />
+      <edge source="Barr" target="Empire" id="12" />
+      <edge source="Barr" target="Siwennien" id="13" />
+      <edge source="Barr" target="Siwenna" id="14" />
+      <edge source="Barr" target="II" id="15" />
+      <edge source="Barr" target="Dehors" id="16" />
+      <edge source="Barr" target="Devers" id="17" />
+      <edge source="Barr" target="Bon" id="18" />
+      <edge source="Barr" target="Imaginez" id="19" />
+      <edge source="Barr" target="Voilà" id="20" />
+      <edge source="Barr" target="Trantor" id="21" />
+      <edge source="Barr" target="Voyons" id="22" />
+      <edge source="Barr" target="Savez" id="23" />
+      <edge source="Barr" target="Forell" id="24" />
+      <edge source="Barr" target="Cléon" id="25" />
+      <edge source="Barr" target="Mallow" id="26" />
+      <edge source="Barr" target="Barr" id="27" />
+      <edge source="Barr" target="Inutile" id="28" />
+      <edge source="Barr" target="Bel" id="29" />
+      <edge source="Barr" target="Marchands" id="30" />
+      <edge source="Barr" target="Allons" id="31" />
+      <edge source="Barr" target="Marchand" id="32" />
+      <edge source="Barr" target="N'" id="33" />
+      <edge source="Barr" target="Ma" id="34" />
+      <edge source="Barr" target="Galaxie" id="35" />
+      <edge source="Barr" target="Terminus" id="36" />
+      <edge source="Barr" target="Hein" id="37" />
+      <edge source="Barr" target="Seldon" id="38" />
+      <edge source="Barr" target="Ecoutez" id="39" />
+      <edge source="Barr" target="hein" id="40" />
+      <edge source="Barr" target="Recherchés" id="41" />
+      <edge source="Barr" target="Hober" id="42" />
+      <edge source="Barr" target="Stannell" id="43" />
+      <edge source="Barr" target="Nul" id="44" />
+      <edge source="Patricien" target="Galaxie" id="45" />
+      <edge source="Patricien" target="Bel" id="46" />
+      <edge source="Patricien" target="Riose" id="47" />
+      <edge source="Patricien" target="Marchands" id="48" />
+      <edge source="Galaxie" target="Siwenna" id="49" />
+      <edge source="Galaxie" target="Marchand" id="50" />
+      <edge source="Galaxie" target="Empire" id="51" />
+      <edge source="Galaxie" target="Combien" id="52" />
+      <edge source="Galaxie" target="Bayta" id="53" />
+      <edge source="Galaxie" target="Randu" id="54" />
+      <edge source="Galaxie" target="Mulet" id="55" />
+      <edge source="Galaxie" target="Trevize" id="56" />
+      <edge source="Galaxie" target="Terminus" id="57" />
+      <edge source="Galaxie" target="Seulement" id="58" />
+      <edge source="Galaxie" target="Pelorat" id="59" />
+      <edge source="Galaxie" target="Hamiens" id="60" />
+      <edge source="Galaxie" target="II" id="61" />
+      <edge source="Galaxie" target="Gaïa" id="62" />
+      <edge source="Galaxie" target="Orateur" id="63" />
+      <edge source="Galaxie" target="Seldon" id="64" />
+      <edge source="Galaxie" target="N'" id="65" />
+      <edge source="Galaxie" target="Inutile" id="66" />
+      <edge source="Galaxie" target="Kalgan" id="67" />
+      <edge source="Galaxie" target="Channis" id="68" />
+      <edge source="Galaxie" target="Anthor" id="69" />
+      <edge source="Galaxie" target="Deniador" id="70" />
+      <edge source="Galaxie" target="Hyperspatialement" id="71" />
+      <edge source="Galaxie" target="Riose" id="72" />
+      <edge source="Galaxie" target="Bel" id="73" />
+      <edge source="Galaxie" target="Devers" id="74" />
+      <edge source="Galaxie" target="Fran" id="75" />
+      <edge source="Galaxie" target="Galaxie" id="76" />
+      <edge source="Galaxie" target="Rares" id="77" />
+      <edge source="Galaxie" target="Mis" id="78" />
+      <edge source="Galaxie" target="Bay" id="79" />
+      <edge source="Galaxie" target="Détectés" id="80" />
+      <edge source="Galaxie" target="Néotrantor" id="81" />
+      <edge source="Galaxie" target="Trantor" id="82" />
+      <edge source="Galaxie" target="Pouvez" id="83" />
+      <edge source="Galaxie" target="Réfléchissez" id="84" />
+      <edge source="Galaxie" target="Allons" id="85" />
+      <edge source="Galaxie" target="Quiconque" id="86" />
+      <edge source="Galaxie" target="pouviez" id="87" />
+      <edge source="Galaxie" target="Golan" id="88" />
+      <edge source="Galaxie" target="Sinon" id="89" />
+      <edge source="Galaxie" target="J.L.G." id="90" />
+      <edge source="Galaxie" target="Gendibal" id="91" />
+      <edge source="Galaxie" target="Janov" id="92" />
+      <edge source="Galaxie" target="Imaginez" id="93" />
+      <edge source="Galaxie" target="Delarmi" id="94" />
+      <edge source="Galaxie" target="Preem" id="95" />
+      <edge source="Galaxie" target="Palver" id="96" />
+      <edge source="Galaxie" target="Munn" id="97" />
+      <edge source="Galaxie" target="diriez" id="98" />
+      <edge source="Galaxie" target="Impossible" id="99" />
+      <edge source="Galaxie" target="Jamais" id="100" />
+      <edge source="Galaxie" target="Quintesetz" id="101" />
+      <edge source="Galaxie" target="madame" id="102" />
+      <edge source="Galaxie" target="Liono" id="103" />
+      <edge source="Galaxie" target="Maître" id="104" />
+      <edge source="Galaxie" target="Ecoutez" id="105" />
+      <edge source="Galaxie" target="Décevez" id="106" />
+      <edge source="Galaxie" target="Kodell" id="107" />
+      <edge source="Galaxie" target="Trev" id="108" />
+      <edge source="Galaxie" target="Joie" id="109" />
+      <edge source="Galaxie" target="Dom" id="110" />
+      <edge source="Galaxie" target="Ma" id="111" />
+      <edge source="Galaxie" target="Shandess" id="112" />
+      <edge source="Galaxie" target="Gaal" id="113" />
+      <edge source="Galaxie" target="Chen" id="114" />
+      <edge source="Galaxie" target="Hardin" id="115" />
+      <edge source="Galaxie" target="Son" id="116" />
+      <edge source="Galaxie" target="Fara" id="117" />
+      <edge source="Galaxie" target="Anacréon" id="118" />
+      <edge source="Galaxie" target="Marchands" id="119" />
+      <edge source="Galaxie" target="Mallow" id="120" />
+      <edge source="Galaxie" target="Jael" id="121" />
+      <edge source="Galaxie" target="Tazenda" id="122" />
+      <edge source="Galaxie" target="Regrettez" id="123" />
+      <edge source="Galaxie" target="Romancière" id="124" />
+      <edge source="Galaxie" target="Meirus" id="125" />
+      <edge source="Galaxie" target="Arkady" id="126" />
+      <edge source="Galaxie" target="Pritcher" id="127" />
+      <edge source="Galaxie" target="Darell" id="128" />
+      <edge source="Galaxie" target="Incrusté" id="129" />
+      <edge source="Galaxie" target="Nul" id="130" />
+      <edge source="Galaxie" target="Dirige" id="131" />
+      <edge source="Galaxie" target="Homir" id="132" />
+      <edge source="Galaxie" target="Mettez" id="133" />
+      <edge source="Galaxie" target="Comporellon" id="134" />
+      <edge source="Galaxie" target="parsec" id="135" />
+      <edge source="Galaxie" target="Aurora" id="136" />
+      <edge source="Galaxie" target="Fallom" id="137" />
+      <edge source="Galaxie" target="Alphane" id="138" />
+      <edge source="Galaxie" target="Hiroko" id="139" />
+      <edge source="Galaxie" target="Branno" id="140" />
+      <edge source="Galaxie" target="Daneel" id="141" />
+      <edge source="Galaxie" target="Jemby" id="142" />
+      <edge source="Siwenna" target="Siwenna" id="143" />
+      <edge source="Siwenna" target="Riose" id="144" />
+      <edge source="Siwenna" target="V" id="145" />
+      <edge source="Siwenna" target="Regardez" id="146" />
+      <edge source="Siwenna" target="Empire" id="147" />
+      <edge source="Siwenna" target="Seldon" id="148" />
+      <edge source="Siwenna" target="Bah" id="149" />
+      <edge source="Siwenna" target="Marchands" id="150" />
+      <edge source="Siwenna" target="Bel" id="151" />
+      <edge source="Siwenna" target="Cléon" id="152" />
+      <edge source="Siwenna" target="II" id="153" />
+      <edge source="Siwenna" target="Hober" id="154" />
+      <edge source="Siwenna" target="Mallow" id="155" />
+      <edge source="Siwenna" target="Devers" id="156" />
+      <edge source="Siwenna" target="Son" id="157" />
+      <edge source="Siwenna" target="Secteur" id="158" />
+      <edge source="Siwenna" target="N'" id="159" />
+      <edge source="Siwenna" target="Ecoutez" id="160" />
+      <edge source="Siwenna" target="Jugez" id="161" />
+      <edge source="Siwenna" target="Ma" id="162" />
+      <edge source="Siwenna" target="Anacréon" id="163" />
+      <edge source="Siwennien" target="Riose" id="164" />
+      <edge source="Siwennien" target="II" id="165" />
+      <edge source="Siwennien" target="Inutile" id="166" />
+      <edge source="Siwennien" target="Empire" id="167" />
+      <edge source="Siwennien" target="Marchand" id="168" />
+      <edge source="Riose" target="Bah" id="169" />
+      <edge source="Riose" target="Bel" id="170" />
+      <edge source="Riose" target="Allons" id="171" />
+      <edge source="Riose" target="Cléon" id="172" />
+      <edge source="Riose" target="II" id="173" />
+      <edge source="Riose" target="Marchands" id="174" />
+      <edge source="Riose" target="Devers" id="175" />
+      <edge source="Riose" target="Merci" id="176" />
+      <edge source="Riose" target="Empire" id="177" />
+      <edge source="Riose" target="Certainement" id="178" />
+      <edge source="Riose" target="Savez" id="179" />
+      <edge source="Riose" target="Auprès" id="180" />
+      <edge source="Riose" target="N'" id="181" />
+      <edge source="Riose" target="Recherchés" id="182" />
+      <edge source="Riose" target="Son" id="183" />
+      <edge source="Riose" target="Jamais" id="184" />
+      <edge source="Riose" target="Inutile" id="185" />
+      <edge source="Riose" target="Hardin" id="186" />
+      <edge source="Riose" target="Mallow" id="187" />
+      <edge source="Riose" target="Forell" id="188" />
+      <edge source="Riose" target="Riose" id="189" />
+      <edge source="Riose" target="auguste" id="190" />
+      <edge source="Riose" target="Bon" id="191" />
+      <edge source="Riose" target="Marchand" id="192" />
+      <edge source="Riose" target="Regardez" id="193" />
+      <edge source="Riose" target="Imaginez" id="194" />
+      <edge source="Riose" target="Ma" id="195" />
+      <edge source="Riose" target="Dehors" id="196" />
+      <edge source="Riose" target="Voyons" id="197" />
+      <edge source="Riose" target="Seldon" id="198" />
+      <edge source="Riose" target="Trevize" id="199" />
+      <edge source="Marchand" target="Regardez" id="200" />
+      <edge source="Marchand" target="Certainement" id="201" />
+      <edge source="Marchand" target="brave" id="202" />
+      <edge source="Marchand" target="Mes" id="203" />
+      <edge source="Marchand" target="Fran" id="204" />
+      <edge source="Marchand" target="Marchands" id="205" />
+      <edge source="Marchand" target="Hober" id="206" />
+      <edge source="Marchand" target="Mallow" id="207" />
+      <edge source="Marchand" target="Maître" id="208" />
+      <edge source="Marchand" target="Ma" id="209" />
+      <edge source="Marchand" target="Empire" id="210" />
+      <edge source="Marchand" target="Seldon" id="211" />
+      <edge source="Marchand" target="hein" id="212" />
+      <edge source="Marchand" target="Devers" id="213" />
+      <edge source="Marchand" target="II" id="214" />
+      <edge source="Marchand" target="Quels" id="215" />
+      <edge source="Marchand" target="Cléon" id="216" />
+      <edge source="Marchand" target="Terminus" id="217" />
+      <edge source="Marchand" target="Trantor" id="218" />
+      <edge source="Marchand" target="Recherchés" id="219" />
+      <edge source="Marchand" target="N'" id="220" />
+      <edge source="Marchand" target="Monsieur" id="221" />
+      <edge source="Marchand" target="Guilde" id="222" />
+      <edge source="Marchand" target="Pherl" id="223" />
+      <edge source="Marchand" target="Continuez" id="224" />
+      <edge source="Marchand" target="Korell" id="225" />
+      <edge source="Marchand" target="Bon" id="226" />
+      <edge source="Marchand" target="Twer" id="227" />
+      <edge source="Marchand" target="Vos" id="228" />
+      <edge source="Marchand" target="Munn" id="229" />
+      <edge source="Marchand" target="Homir" id="230" />
+      <edge source="Seldon" target="Seldon" id="231" />
+      <edge source="Seldon" target="Empire" id="232" />
+      <edge source="Seldon" target="Bon" id="233" />
+      <edge source="Seldon" target="Excellence" id="234" />
+      <edge source="Seldon" target="Indbur" id="235" />
+      <edge source="Seldon" target="Mulet" id="236" />
+      <edge source="Seldon" target="Magnifico" id="237" />
+      <edge source="Seldon" target="Trevize" id="238" />
+      <edge source="Seldon" target="madame" id="239" />
+      <edge source="Seldon" target="Orateur" id="240" />
+      <edge source="Seldon" target="II" id="241" />
+      <edge source="Seldon" target="Preem" id="242" />
+      <edge source="Seldon" target="Palver" id="243" />
+      <edge source="Seldon" target="Seulement" id="244" />
+      <edge source="Seldon" target="Sinon" id="245" />
+      <edge source="Seldon" target="Voilà" id="246" />
+      <edge source="Seldon" target="Trantor" id="247" />
+      <edge source="Seldon" target="Gaal" id="248" />
+      <edge source="Seldon" target="Chen" id="249" />
+      <edge source="Seldon" target="Commissaire" id="250" />
+      <edge source="Seldon" target="Fara" id="251" />
+      <edge source="Seldon" target="Terminus" id="252" />
+      <edge source="Seldon" target="Lee" id="253" />
+      <edge source="Seldon" target="Verisof" id="254" />
+      <edge source="Seldon" target="Accusez" id="255" />
+      <edge source="Seldon" target="Nul" id="256" />
+      <edge source="Seldon" target="Pritcher" id="257" />
+      <edge source="Seldon" target="Mis" id="258" />
+      <edge source="Seldon" target="Hardin" id="259" />
+      <edge source="Seldon" target="Mallow" id="260" />
+      <edge source="Seldon" target="Anthor" id="261" />
+      <edge source="Seldon" target="Devers" id="262" />
+      <edge source="Seldon" target="Forell" id="263" />
+      <edge source="Seldon" target="Randu" id="264" />
+      <edge source="Seldon" target="Marchands" id="265" />
+      <edge source="Seldon" target="Bayta" id="266" />
+      <edge source="Seldon" target="Néotrantor" id="267" />
+      <edge source="Seldon" target="Hannis" id="268" />
+      <edge source="Seldon" target="Allons" id="269" />
+      <edge source="Seldon" target="Salvor" id="270" />
+      <edge source="Seldon" target="Jamais" id="271" />
+      <edge source="Seldon" target="Branno" id="272" />
+      <edge source="Seldon" target="Golan" id="273" />
+      <edge source="Seldon" target="Kodell" id="274" />
+      <edge source="Seldon" target="Avez" id="275" />
+      <edge source="Seldon" target="Darell" id="276" />
+      <edge source="Seldon" target="Arkady" id="277" />
+      <edge source="Seldon" target="Liono" id="278" />
+      <edge source="Seldon" target="Shandess" id="279" />
+      <edge source="Seldon" target="Gendibal" id="280" />
+      <edge source="Seldon" target="Son" id="281" />
+      <edge source="Seldon" target="considérez" id="282" />
+      <edge source="Seldon" target="Table" id="283" />
+      <edge source="Seldon" target="Delarmi" id="284" />
+      <edge source="Seldon" target="Maître" id="285" />
+      <edge source="Seldon" target="Gaïa" id="286" />
+      <edge source="Seldon" target="Hein" id="287" />
+      <edge source="Seldon" target="Permettez" id="288" />
+      <edge source="Seldon" target="Appelez" id="289" />
+      <edge source="Seldon" target="Prenez" id="290" />
+      <edge source="Seldon" target="Fulham" id="291" />
+      <edge source="Seldon" target="Anacréon" id="292" />
+      <edge source="Seldon" target="Rodric" id="293" />
+      <edge source="Seldon" target="Sermak" id="294" />
+      <edge source="Seldon" target="Lepold" id="295" />
+      <edge source="Seldon" target="Manlio" id="296" />
+      <edge source="Seldon" target="Voyons" id="297" />
+      <edge source="Seldon" target="Twer" id="298" />
+      <edge source="Seldon" target="Supposons" id="299" />
+      <edge source="Seldon" target="Suivit" id="300" />
+      <edge source="Seldon" target="Turbor" id="301" />
+      <edge source="Seldon" target="Munn" id="302" />
+      <edge source="Seldon" target="Homir" id="303" />
+      <edge source="Seldon" target="Pelorat" id="304" />
+      <edge source="Seldon" target="Bonne" id="305" />
+      <edge source="Seldon" target="Fallom" id="306" />
+      <edge source="Bah" target="Pelorat" id="307" />
+      <edge source="Bah" target="Hardin" id="308" />
+      <edge source="Bah" target="Pritcher" id="309" />
+      <edge source="Bah" target="Channis" id="310" />
+      <edge source="Bah" target="Trevize" id="311" />
+      <edge source="Bah" target="Fallom" id="312" />
+      <edge source="Voyons" target="Empire" id="313" />
+      <edge source="Voyons" target="Devers" id="314" />
+      <edge source="Voyons" target="Fran" id="315" />
+      <edge source="Voyons" target="Bayta" id="316" />
+      <edge source="Voyons" target="brave" id="317" />
+      <edge source="Voyons" target="Magnifico" id="318" />
+      <edge source="Voyons" target="Magnifiée" id="319" />
+      <edge source="Voyons" target="Hardin" id="320" />
+      <edge source="Voyons" target="Manlio" id="321" />
+      <edge source="Voyons" target="Vos" id="322" />
+      <edge source="Voyons" target="Ma" id="323" />
+      <edge source="Voyons" target="Randu" id="324" />
+      <edge source="Voyons" target="Mis" id="325" />
+      <edge source="Voyons" target="Voilà" id="326" />
+      <edge source="Voyons" target="Mulet" id="327" />
+      <edge source="Voyons" target="II" id="328" />
+      <edge source="Voyons" target="Terminus" id="329" />
+      <edge source="Voyons" target="Rodric" id="330" />
+      <edge source="Voyons" target="Anacréon" id="331" />
+      <edge source="Voyons" target="Mallow" id="332" />
+      <edge source="Voyons" target="Tazenda" id="333" />
+      <edge source="Empire" target="Bel" id="334" />
+      <edge source="Empire" target="Trantor" id="335" />
+      <edge source="Empire" target="Gendibal" id="336" />
+      <edge source="Empire" target="Pelorat" id="337" />
+      <edge source="Empire" target="Gaïa" id="338" />
+      <edge source="Empire" target="Branno" id="339" />
+      <edge source="Empire" target="Terminus" id="340" />
+      <edge source="Empire" target="Dorwin" id="341" />
+      <edge source="Empire" target="Anacréon" id="342" />
+      <edge source="Empire" target="Astronef" id="343" />
+      <edge source="Empire" target="Empire" id="344" />
+      <edge source="Empire" target="Voilà" id="345" />
+      <edge source="Empire" target="Channis" id="346" />
+      <edge source="Empire" target="II" id="347" />
+      <edge source="Empire" target="conquérant" id="348" />
+      <edge source="Empire" target="Nul" id="349" />
+      <edge source="Empire" target="Trevize" id="350" />
+      <edge source="Empire" target="Vos" id="351" />
+      <edge source="Empire" target="Forell" id="352" />
+      <edge source="Empire" target="Marchands" id="353" />
+      <edge source="Empire" target="V" id="354" />
+      <edge source="Empire" target="Devers" id="355" />
+      <edge source="Empire" target="Bon" id="356" />
+      <edge source="Empire" target="Cléon" id="357" />
+      <edge source="Empire" target="Mulet" id="358" />
+      <edge source="Empire" target="Néotrantor" id="359" />
+      <edge source="Empire" target="Naturellement" id="360" />
+      <edge source="Empire" target="Table" id="361" />
+      <edge source="Empire" target="Orateur" id="362" />
+      <edge source="Empire" target="Oratrice" id="363" />
+      <edge source="Empire" target="Delarmi" id="364" />
+      <edge source="Empire" target="brave" id="365" />
+      <edge source="Empire" target="Madame" id="366" />
+      <edge source="Empire" target="Maigre" id="367" />
+      <edge source="Empire" target="Gaal" id="368" />
+      <edge source="Empire" target="pouviez" id="369" />
+      <edge source="Empire" target="Hardin" id="370" />
+      <edge source="Empire" target="Gorov" id="371" />
+      <edge source="Empire" target="Mallow" id="372" />
+      <edge source="Empire" target="Regardez" id="373" />
+      <edge source="Empire" target="Korell" id="374" />
+      <edge source="Empire" target="Tazenda" id="375" />
+      <edge source="Empire" target="Kalgan" id="376" />
+      <edge source="Empire" target="Stettin" id="377" />
+      <edge source="Empire" target="rejeton" id="378" />
+      <edge source="Empire" target="Poochie" id="379" />
+      <edge source="Empire" target="Homir" id="380" />
+      <edge source="Empire" target="Munn" id="381" />
+      <edge source="Empire" target="Son" id="382" />
+      <edge source="Empire" target="Jamais" id="383" />
+      <edge source="Empire" target="Yariff" id="384" />
+      <edge source="Empire" target="Joie" id="385" />
+      <edge source="Empire" target="Inutile" id="386" />
+      <edge source="Bel" target="Forell" id="387" />
+      <edge source="Bel" target="Cléon" id="388" />
+      <edge source="Bel" target="II" id="389" />
+      <edge source="Bel" target="Bel" id="390" />
+      <edge source="Bel" target="Trevize" id="391" />
+      <edge source="Hardin" target="Mallow" id="392" />
+      <edge source="Hardin" target="Salvor" id="393" />
+      <edge source="Hardin" target="Hober" id="394" />
+      <edge source="Hardin" target="Terminus" id="395" />
+      <edge source="Hardin" target="Fara" id="396" />
+      <edge source="Hardin" target="N'" id="397" />
+      <edge source="Hardin" target="Alurin" id="398" />
+      <edge source="Hardin" target="Sermak" id="399" />
+      <edge source="Hardin" target="Hardin" id="400" />
+      <edge source="Hardin" target="Son" id="401" />
+      <edge source="Hardin" target="Gardez" id="402" />
+      <edge source="Hardin" target="Maître" id="403" />
+      <edge source="Hardin" target="Wienis" id="404" />
+      <edge source="Hardin" target="haut-le-corps" id="405" />
+      <edge source="Hardin" target="Devers" id="406" />
+      <edge source="Hardin" target="Forell" id="407" />
+      <edge source="Hardin" target="II" id="408" />
+      <edge source="Hardin" target="Seulement" id="409" />
+      <edge source="Hardin" target="Vois" id="410" />
+      <edge source="Hardin" target="Nul" id="411" />
+      <edge source="Hardin" target="Kodell" id="412" />
+      <edge source="Hardin" target="Trevize" id="413" />
+      <edge source="Hardin" target="Trantor" id="414" />
+      <edge source="Hardin" target="Anacréon" id="415" />
+      <edge source="Hardin" target="Rodric" id="416" />
+      <edge source="Hardin" target="Excellence" id="417" />
+      <edge source="Hardin" target="Fulham" id="418" />
+      <edge source="Hardin" target="Dorwin" id="419" />
+      <edge source="Hardin" target="Lameth" id="420" />
+      <edge source="Hardin" target="V" id="421" />
+      <edge source="Hardin" target="Voilà" id="422" />
+      <edge source="Hardin" target="Lee" id="423" />
+      <edge source="Hardin" target="Merci" id="424" />
+      <edge source="Hardin" target="Souvenez" id="425" />
+      <edge source="Hardin" target="Verisof" id="426" />
+      <edge source="Hardin" target="Cigare" id="427" />
+      <edge source="Hardin" target="Mettre" id="428" />
+      <edge source="Hardin" target="Lepold" id="429" />
+      <edge source="Hardin" target="Bort" id="430" />
+      <edge source="Hardin" target="Manlio" id="431" />
+      <edge source="Hardin" target="Mulet" id="432" />
+      <edge source="Mallow" target="Hober" id="433" />
+      <edge source="Mallow" target="Maître" id="434" />
+      <edge source="Mallow" target="Bon" id="435" />
+      <edge source="Mallow" target="Twer" id="436" />
+      <edge source="Mallow" target="Parlez" id="437" />
+      <edge source="Mallow" target="Mes" id="438" />
+      <edge source="Mallow" target="Mallow" id="439" />
+      <edge source="Mallow" target="Jael" id="440" />
+      <edge source="Mallow" target="grommela" id="441" />
+      <edge source="Mallow" target="Nul" id="442" />
+      <edge source="Mallow" target="Devers" id="443" />
+      <edge source="Mallow" target="Salvor" id="444" />
+      <edge source="Mallow" target="II" id="445" />
+      <edge source="Mallow" target="Marchands" id="446" />
+      <edge source="Mallow" target="Continuez" id="447" />
+      <edge source="Mallow" target="Avez" id="448" />
+      <edge source="Mallow" target="Sinon" id="449" />
+      <edge source="Mallow" target="Merci" id="450" />
+      <edge source="Mallow" target="Parma" id="451" />
+      <edge source="Mallow" target="Son" id="452" />
+      <edge source="Mallow" target="Vos" id="453" />
+      <edge source="Mallow" target="Korell" id="454" />
+      <edge source="Mallow" target="Ma" id="455" />
+      <edge source="Mallow" target="Astronef" id="456" />
+      <edge source="Mallow" target="Regardez" id="457" />
+      <edge source="Mallow" target="Drawt" id="458" />
+      <edge source="Mallow" target="Stannell" id="459" />
+      <edge source="Mallow" target="Ecoutez" id="460" />
+      <edge source="Mallow" target="pouviez" id="461" />
+      <edge source="Mallow" target="Filez" id="462" />
+      <edge source="Mallow" target="Monsieur" id="463" />
+      <edge source="Mallow" target="N'" id="464" />
+      <edge source="Mallow" target="Seulement" id="465" />
+      <edge source="Mallow" target="Supposez" id="466" />
+      <edge source="Mallow" target="Voilà" id="467" />
+      <edge source="Mallow" target="Rendez" id="468" />
+      <edge source="Mallow" target="Mulet" id="469" />
+      <edge source="Mallow" target="Darell" id="470" />
+      <edge source="Mallow" target="Anthor" id="471" />
+      <edge source="Salvor" target="Hober" id="472" />
+      <edge source="Salvor" target="Anacréon" id="473" />
+      <edge source="Salvor" target="Salvor" id="474" />
+      <edge source="Salvor" target="Maître" id="475" />
+      <edge source="Salvor" target="Forell" id="476" />
+      <edge source="Salvor" target="Allons" id="477" />
+      <edge source="Salvor" target="Vois" id="478" />
+      <edge source="Salvor" target="Nul" id="479" />
+      <edge source="Salvor" target="Kodell" id="480" />
+      <edge source="Salvor" target="Trevize" id="481" />
+      <edge source="Salvor" target="Terminus" id="482" />
+      <edge source="Salvor" target="Trantor" id="483" />
+      <edge source="Salvor" target="Son" id="484" />
+      <edge source="Salvor" target="Rodric" id="485" />
+      <edge source="Salvor" target="Wienis" id="486" />
+      <edge source="Salvor" target="Lepold" id="487" />
+      <edge source="Salvor" target="Verisof" id="488" />
+      <edge source="Salvor" target="II" id="489" />
+      <edge source="Salvor" target="Manlio" id="490" />
+      <edge source="Salvor" target="Ecoutez" id="491" />
+      <edge source="Salvor" target="Jolis" id="492" />
+      <edge source="Hober" target="Maître" id="493" />
+      <edge source="Hober" target="II" id="494" />
+      <edge source="Hober" target="Marchands" id="495" />
+      <edge source="Hober" target="Nul" id="496" />
+      <edge source="Hober" target="Continuez" id="497" />
+      <edge source="Hober" target="Drawt" id="498" />
+      <edge source="Hober" target="Darell" id="499" />
+      <edge source="Hober" target="Anthor" id="500" />
+      <edge source="II" target="Cléon" id="501" />
+      <edge source="II" target="Maître" id="502" />
+      <edge source="II" target="Ecoutez" id="503" />
+      <edge source="II" target="Pelorat" id="504" />
+      <edge source="II" target="Delarmi" id="505" />
+      <edge source="II" target="Table" id="506" />
+      <edge source="II" target="Gendibal" id="507" />
+      <edge source="II" target="Orateur" id="508" />
+      <edge source="II" target="Sura" id="509" />
+      <edge source="II" target="Trevize" id="510" />
+      <edge source="II" target="Janov" id="511" />
+      <edge source="II" target="Regardez" id="512" />
+      <edge source="II" target="Gaïa" id="513" />
+      <edge source="II" target="Gaal" id="514" />
+      <edge source="II" target="Anselme" id="515" />
+      <edge source="II" target="Rodric" id="516" />
+      <edge source="II" target="Sermak" id="517" />
+      <edge source="II" target="Mis" id="518" />
+      <edge source="II" target="brave" id="519" />
+      <edge source="II" target="Darell" id="520" />
+      <edge source="II" target="Joie" id="521" />
+      <edge source="II" target="Terminus" id="522" />
+      <edge source="II" target="Comporellon" id="523" />
+      <edge source="II" target="Fallom" id="524" />
+      <edge source="II" target="Savez" id="525" />
+      <edge source="II" target="Viens" id="526" />
+      <edge source="II" target="Marchands" id="527" />
+      <edge source="II" target="Forell" id="528" />
+      <edge source="II" target="II" id="529" />
+      <edge source="II" target="Combien" id="530" />
+      <edge source="II" target="Dehors" id="531" />
+      <edge source="II" target="Bayta" id="532" />
+      <edge source="II" target="Pritcher" id="533" />
+      <edge source="II" target="Magnifiée" id="534" />
+      <edge source="II" target="Vois" id="535" />
+      <edge source="II" target="madame" id="536" />
+      <edge source="II" target="Branno" id="537" />
+      <edge source="II" target="Kodell" id="538" />
+      <edge source="II" target="inquiétude" id="539" />
+      <edge source="II" target="Trantor" id="540" />
+      <edge source="II" target="Avez" id="541" />
+      <edge source="II" target="menton" id="542" />
+      <edge source="II" target="Golan" id="543" />
+      <edge source="II" target="Guère" id="544" />
+      <edge source="II" target="Accordez" id="545" />
+      <edge source="II" target="Quintesetz" id="546" />
+      <edge source="II" target="Détendez" id="547" />
+      <edge source="II" target="Hamiens" id="548" />
+      <edge source="II" target="Décevez" id="549" />
+      <edge source="II" target="Pel" id="550" />
+      <edge source="II" target="Excellence" id="551" />
+      <edge source="II" target="Anacréon" id="552" />
+      <edge source="II" target="Alurin" id="553" />
+      <edge source="II" target="Fara" id="554" />
+      <edge source="II" target="Bon" id="555" />
+      <edge source="II" target="Parlez" id="556" />
+      <edge source="II" target="Verisof" id="557" />
+      <edge source="II" target="Wienis" id="558" />
+      <edge source="II" target="Gardez" id="559" />
+      <edge source="II" target="Monsieur" id="560" />
+      <edge source="II" target="Mulet" id="561" />
+      <edge source="II" target="Tazenda" id="562" />
+      <edge source="II" target="Channis" id="563" />
+      <edge source="II" target="témoignerez" id="564" />
+      <edge source="II" target="T" id="565" />
+      <edge source="II" target="Pensiez" id="566" />
+      <edge source="II" target="Kalgan" id="567" />
+      <edge source="II" target="Certainement" id="568" />
+      <edge source="II" target="Ma" id="569" />
+      <edge source="II" target="Kleise" id="570" />
+      <edge source="II" target="Poochie" id="571" />
+      <edge source="II" target="Maman" id="572" />
+      <edge source="II" target="Papa" id="573" />
+      <edge source="II" target="Donne" id="574" />
+      <edge source="II" target="Semic" id="575" />
+      <edge source="II" target="Supposez" id="576" />
+      <edge source="II" target="Anthor" id="577" />
+      <edge source="II" target="Munn" id="578" />
+      <edge source="II" target="Père" id="579" />
+      <edge source="II" target="Dom" id="580" />
+      <edge source="II" target="Kendray" id="581" />
+      <edge source="II" target="N'" id="582" />
+      <edge source="II" target="Jamais" id="583" />
+      <edge source="II" target="Pouvez" id="584" />
+      <edge source="II" target="Lizalor" id="585" />
+      <edge source="II" target="Deniador" id="586" />
+      <edge source="II" target="Aurora" id="587" />
+      <edge source="II" target="Bander" id="588" />
+      <edge source="II" target="Entrez" id="589" />
+      <edge source="II" target="Inutile" id="590" />
+      <edge source="II" target="Son" id="591" />
+      <edge source="II" target="Lois" id="592" />
+      <edge source="II" target="Daneel" id="593" />
+      <edge source="Allons" target="Trantor" id="594" />
+      <edge source="Allons" target="Mulet" id="595" />
+      <edge source="Allons" target="Janov" id="596" />
+      <edge source="Allons" target="Pelorat" id="597" />
+      <edge source="Allons" target="Liono" id="598" />
+      <edge source="Allons" target="Joie" id="599" />
+      <edge source="Allons" target="Golan" id="600" />
+      <edge source="Allons" target="Trevize" id="601" />
+      <edge source="Allons" target="Devers" id="602" />
+      <edge source="Allons" target="Bon" id="603" />
+      <edge source="Allons" target="Voilà" id="604" />
+      <edge source="Allons" target="Mis" id="605" />
+      <edge source="Allons" target="Pritcher" id="606" />
+      <edge source="Allons" target="Marchands" id="607" />
+      <edge source="Allons" target="Kalgan" id="608" />
+      <edge source="Allons" target="Bayta" id="609" />
+      <edge source="Allons" target="Gaïa" id="610" />
+      <edge source="Allons" target="brave" id="611" />
+      <edge source="Allons" target="Terminus" id="612" />
+      <edge source="Allons" target="Dom" id="613" />
+      <edge source="Allons" target="madame" id="614" />
+      <edge source="Allons" target="pouviez" id="615" />
+      <edge source="Allons" target="Askone" id="616" />
+      <edge source="Allons" target="Jael" id="617" />
+      <edge source="Allons" target="Ma" id="618" />
+      <edge source="Allons" target="Homir" id="619" />
+      <edge source="Allons" target="Kendray" id="620" />
+      <edge source="Allons" target="Lizalor" id="621" />
+      <edge source="Allons" target="Bander" id="622" />
+      <edge source="Allons" target="Y" id="623" />
+      <edge source="Allons" target="Fallom" id="624" />
+      <edge source="Cléon" target="Maître" id="625" />
+      <edge source="Cléon" target="Combien" id="626" />
+      <edge source="Cléon" target="Cléon" id="627" />
+      <edge source="Maître" target="Ma" id="628" />
+      <edge source="Maître" target="Bander" id="629" />
+      <edge source="Maître" target="Pelorat" id="630" />
+      <edge source="Maître" target="Fallom" id="631" />
+      <edge source="Maître" target="Sura" id="632" />
+      <edge source="Maître" target="Rufirant" id="633" />
+      <edge source="Maître" target="Gendibal" id="634" />
+      <edge source="Maître" target="Trantor" id="635" />
+      <edge source="Maître" target="Maîtres" id="636" />
+      <edge source="Maître" target="Maître" id="637" />
+      <edge source="Maître" target="Orateur" id="638" />
+      <edge source="Maître" target="Gaïa" id="639" />
+      <edge source="Maître" target="Wienis" id="640" />
+      <edge source="Maître" target="Verisof" id="641" />
+      <edge source="Maître" target="Vos" id="642" />
+      <edge source="Maître" target="Pherl" id="643" />
+      <edge source="Maître" target="Gorov" id="644" />
+      <edge source="Maître" target="Continuez" id="645" />
+      <edge source="Combien" target="Gaïa" id="646" />
+      <edge source="Combien" target="Joie" id="647" />
+      <edge source="Combien" target="Magnifiée" id="648" />
+      <edge source="Combien" target="Mulet" id="649" />
+      <edge source="Combien" target="Golan" id="650" />
+      <edge source="Combien" target="Combien" id="651" />
+      <edge source="Combien" target="Trevize" id="652" />
+      <edge source="Combien" target="Comprenez" id="653" />
+      <edge source="Combien" target="Comporellon" id="654" />
+      <edge source="Combien" target="Pelorat" id="655" />
+      <edge source="Combien" target="Jamais" id="656" />
+      <edge source="V" target="Trevize" id="657" />
+      <edge source="V" target="Fallom" id="658" />
+      <edge source="Marchands" target="Mnémon" id="659" />
+      <edge source="Marchands" target="Forell" id="660" />
+      <edge source="Marchands" target="Marchands" id="661" />
+      <edge source="Marchands" target="Fran" id="662" />
+      <edge source="Marchands" target="Randu" id="663" />
+      <edge source="Marchands" target="Mulet" id="664" />
+      <edge source="Marchands" target="Monsieur" id="665" />
+      <edge source="Marchands" target="pouviez" id="666" />
+      <edge source="Marchands" target="Gorov" id="667" />
+      <edge source="Marchands" target="Twer" id="668" />
+      <edge source="Marchands" target="Souvenez" id="669" />
+      <edge source="Marchands" target="Jael" id="670" />
+      <edge source="Marchands" target="Nul" id="671" />
+      <edge source="Devers" target="Hein" id="672" />
+      <edge source="Devers" target="Trantor" id="673" />
+      <edge source="Devers" target="Bon" id="674" />
+      <edge source="Devers" target="Devers" id="675" />
+      <edge source="Devers" target="Merci" id="676" />
+      <edge source="Devers" target="Regardez" id="677" />
+      <edge source="Devers" target="N'" id="678" />
+      <edge source="Devers" target="Voilà" id="679" />
+      <edge source="Devers" target="Monsieur" id="680" />
+      <edge source="Devers" target="Ma" id="681" />
+      <edge source="Devers" target="Quels" id="682" />
+      <edge source="Devers" target="Recherchés" id="683" />
+      <edge source="Devers" target="Forell" id="684" />
+      <edge source="Devers" target="Mulet" id="685" />
+      <edge source="Merci" target="Pritcher" id="686" />
+      <edge source="Merci" target="Bayta" id="687" />
+      <edge source="Merci" target="Orateur" id="688" />
+      <edge source="Merci" target="Trevize" id="689" />
+      <edge source="Merci" target="Anthor" id="690" />
+      <edge source="Merci" target="Pel" id="691" />
+      <edge source="Merci" target="Joie" id="692" />
+      <edge source="Merci" target="Pelorat" id="693" />
+      <edge source="Merci" target="Mulet" id="694" />
+      <edge source="Merci" target="Magnifico" id="695" />
+      <edge source="Merci" target="Magnifiée" id="696" />
+      <edge source="Merci" target="Bon" id="697" />
+      <edge source="Merci" target="Kodell" id="698" />
+      <edge source="Merci" target="Table" id="699" />
+      <edge source="Merci" target="Turbor" id="700" />
+      <edge source="Merci" target="Darell" id="701" />
+      <edge source="Merci" target="Trev" id="702" />
+      <edge source="Merci" target="Janov" id="703" />
+      <edge source="Merci" target="Lizalor" id="704" />
+      <edge source="Merci" target="Daneel" id="705" />
+      <edge source="Merci" target="Fallom" id="706" />
+      <edge source="Merci" target="Jemby" id="707" />
+      <edge source="Regardez" target="Son" id="708" />
+      <edge source="Regardez" target="Liono" id="709" />
+      <edge source="Regardez" target="Anthor" id="710" />
+      <edge source="Regardez" target="Pel" id="711" />
+      <edge source="Regardez" target="Trevize" id="712" />
+      <edge source="Regardez" target="Joie" id="713" />
+      <edge source="Regardez" target="Golan" id="714" />
+      <edge source="Regardez" target="Pelorat" id="715" />
+      <edge source="Regardez" target="Branno" id="716" />
+      <edge source="Regardez" target="Papa" id="717" />
+      <edge source="Regardez" target="Inutile" id="718" />
+      <edge source="Regardez" target="Janov" id="719" />
+      <edge source="Certainement" target="Indbur" id="720" />
+      <edge source="Certainement" target="Mis" id="721" />
+      <edge source="Certainement" target="Bay" id="722" />
+      <edge source="Certainement" target="Pel" id="723" />
+      <edge source="Certainement" target="Kalgan" id="724" />
+      <edge source="Certainement" target="Mes" id="725" />
+      <edge source="Certainement" target="Joie" id="726" />
+      <edge source="Certainement" target="Bander" id="727" />
+      <edge source="Certainement" target="Hiroko" id="728" />
+      <edge source="Certainement" target="Fallom" id="729" />
+      <edge source="Certainement" target="Certainement" id="730" />
+      <edge source="Certainement" target="Trantor" id="731" />
+      <edge source="Certainement" target="Senter" id="732" />
+      <edge source="Certainement" target="Mulet" id="733" />
+      <edge source="Certainement" target="Bayta" id="734" />
+      <edge source="Certainement" target="Gendibal" id="735" />
+      <edge source="Certainement" target="Pelorat" id="736" />
+      <edge source="Certainement" target="Gaïa" id="737" />
+      <edge source="Certainement" target="Voudriez" id="738" />
+      <edge source="Certainement" target="Monsieur" id="739" />
+      <edge source="Certainement" target="Puissance" id="740" />
+      <edge source="Certainement" target="Deniador" id="741" />
+      <edge source="Certainement" target="Comporellon" id="742" />
+      <edge source="Certainement" target="Prenez" id="743" />
+      <edge source="Certainement" target="Trevize" id="744" />
+      <edge source="Savez" target="Magnifico" id="745" />
+      <edge source="Savez" target="Mettez" id="746" />
+      <edge source="Savez" target="Gennerat" id="747" />
+      <edge source="Savez" target="Trevize" id="748" />
+      <edge source="Savez" target="Channis" id="749" />
+      <edge source="Savez" target="Orateur" id="750" />
+      <edge source="Savez" target="Mulet" id="751" />
+      <edge source="Savez" target="Pelorat" id="752" />
+      <edge source="Savez" target="Golan" id="753" />
+      <edge source="Savez" target="Joie" id="754" />
+      <edge source="Savez" target="Gaïa" id="755" />
+      <edge source="brave" target="Terminus" id="756" />
+      <edge source="brave" target="Pelorat" id="757" />
+      <edge source="brave" target="Bon" id="758" />
+      <edge source="brave" target="Parma" id="759" />
+      <edge source="brave" target="Korell" id="760" />
+      <edge source="brave" target="Channis" id="761" />
+      <edge source="brave" target="Kalgan" id="762" />
+      <edge source="brave" target="Pritcher" id="763" />
+      <edge source="brave" target="Mulet" id="764" />
+      <edge source="brave" target="Brave" id="765" />
+      <edge source="brave" target="Voilà" id="766" />
+      <edge source="brave" target="Trevize" id="767" />
+      <edge source="brave" target="Joie" id="768" />
+      <edge source="Mes" target="Sermak" id="769" />
+      <edge source="Mes" target="Anacréon" id="770" />
+      <edge source="Mes" target="Bayta" id="771" />
+      <edge source="Mes" target="Mulet" id="772" />
+      <edge source="Mes" target="Kodell" id="773" />
+      <edge source="Mes" target="Trevize" id="774" />
+      <edge source="Mes" target="Orateur" id="775" />
+      <edge source="Mes" target="Twer" id="776" />
+      <edge source="Mes" target="Channis" id="777" />
+      <edge source="Mes" target="Donnez" id="778" />
+      <edge source="Mes" target="Pelorat" id="779" />
+      <edge source="Dehors" target="Bon" id="780" />
+      <edge source="Dehors" target="Magnifico" id="781" />
+      <edge source="Dehors" target="Gente" id="782" />
+      <edge source="Auprès" target="Magnifico" id="783" />
+      <edge source="Auprès" target="Mis" id="784" />
+      <edge source="Auprès" target="Terminus" id="785" />
+      <edge source="Hein" target="Bon" id="786" />
+      <edge source="Hein" target="Voilà" id="787" />
+      <edge source="Hein" target="Joidilachicarella" id="788" />
+      <edge source="Hein" target="Trantor" id="789" />
+      <edge source="Hein" target="Gaal" id="790" />
+      <edge source="Hein" target="Trevize" id="791" />
+      <edge source="Hein" target="Pelorat" id="792" />
+      <edge source="Bon" target="Bon" id="793" />
+      <edge source="Bon" target="Imaginez" id="794" />
+      <edge source="Bon" target="Trantor" id="795" />
+      <edge source="Bon" target="Forell" id="796" />
+      <edge source="Bon" target="Kodell" id="797" />
+      <edge source="Bon" target="Trevize" id="798" />
+      <edge source="Bon" target="Pelorat" id="799" />
+      <edge source="Bon" target="Delarmi" id="800" />
+      <edge source="Bon" target="Descendons" id="801" />
+      <edge source="Bon" target="Janov" id="802" />
+      <edge source="Bon" target="Branno" id="803" />
+      <edge source="Bon" target="Supposez" id="804" />
+      <edge source="Bon" target="Kendray" id="805" />
+      <edge source="Bon" target="Joie" id="806" />
+      <edge source="Bon" target="Voilà" id="807" />
+      <edge source="Bon" target="Mulet" id="808" />
+      <edge source="Bon" target="Excellence" id="809" />
+      <edge source="Bon" target="Bayta" id="810" />
+      <edge source="Bon" target="Magnifico" id="811" />
+      <edge source="Bon" target="Bay" id="812" />
+      <edge source="Bon" target="Terminus" id="813" />
+      <edge source="Bon" target="Parlez" id="814" />
+      <edge source="Bon" target="Golan" id="815" />
+      <edge source="Bon" target="Gaïa" id="816" />
+      <edge source="Bon" target="Anonymement" id="817" />
+      <edge source="Bon" target="Gaal" id="818" />
+      <edge source="Bon" target="Fara" id="819" />
+      <edge source="Bon" target="Avez" id="820" />
+      <edge source="Bon" target="Sermak" id="821" />
+      <edge source="Bon" target="Wienis" id="822" />
+      <edge source="Bon" target="pouviez" id="823" />
+      <edge source="Bon" target="Melpomenia" id="824" />
+      <edge source="Imaginez" target="Trantor" id="825" />
+      <edge source="Imaginez" target="Impossible" id="826" />
+      <edge source="Imaginez" target="Gaïa" id="827" />
+      <edge source="Imaginez" target="Ma" id="828" />
+      <edge source="Imaginez" target="Terminus" id="829" />
+      <edge source="Imaginez" target="Imaginez" id="830" />
+      <edge source="Imaginez" target="Supposons" id="831" />
+      <edge source="Imaginez" target="Janov" id="832" />
+      <edge source="Imaginez" target="Trevize" id="833" />
+      <edge source="Imaginez" target="Fallom" id="834" />
+      <edge source="Trantor" target="Trantor" id="835" />
+      <edge source="Trantor" target="Mulet" id="836" />
+      <edge source="Trantor" target="Arkady" id="837" />
+      <edge source="Trantor" target="Pelorat" id="838" />
+      <edge source="Trantor" target="Branno" id="839" />
+      <edge source="Trantor" target="N'" id="840" />
+      <edge source="Trantor" target="Golan" id="841" />
+      <edge source="Trantor" target="Quiconque" id="842" />
+      <edge source="Trantor" target="Gendibal" id="843" />
+      <edge source="Trantor" target="Trevize" id="844" />
+      <edge source="Trantor" target="Son" id="845" />
+      <edge source="Trantor" target="Shandess" id="846" />
+      <edge source="Trantor" target="Terminus" id="847" />
+      <edge source="Trantor" target="pouviez" id="848" />
+      <edge source="Trantor" target="Santanni" id="849" />
+      <edge source="Trantor" target="Preem" id="850" />
+      <edge source="Trantor" target="Palver" id="851" />
+      <edge source="Trantor" target="Kalgan" id="852" />
+      <edge source="Trantor" target="Répondez" id="853" />
+      <edge source="Trantor" target="Darell" id="854" />
+      <edge source="Trantor" target="Mis" id="855" />
+      <edge source="Trantor" target="Souvenez" id="856" />
+      <edge source="Trantor" target="Ecoutez" id="857" />
+      <edge source="Trantor" target="Voilà" id="858" />
+      <edge source="Trantor" target="Forell" id="859" />
+      <edge source="Trantor" target="Retournez" id="860" />
+      <edge source="Trantor" target="Gilmer" id="861" />
+      <edge source="Trantor" target="Senter" id="862" />
+      <edge source="Trantor" target="Bayta" id="863" />
+      <edge source="Trantor" target="Néotrantor" id="864" />
+      <edge source="Trantor" target="Quels" id="865" />
+      <edge source="Trantor" target="Table" id="866" />
+      <edge source="Trantor" target="Oratrice" id="867" />
+      <edge source="Trantor" target="Delarmi" id="868" />
+      <edge source="Trantor" target="Hamienne" id="869" />
+      <edge source="Trantor" target="Gaïa" id="870" />
+      <edge source="Trantor" target="madame" id="871" />
+      <edge source="Trantor" target="Seulement" id="872" />
+      <edge source="Trantor" target="Orateur" id="873" />
+      <edge source="Trantor" target="T" id="874" />
+      <edge source="Trantor" target="Gaal" id="875" />
+      <edge source="Trantor" target="Jerril" id="876" />
+      <edge source="Trantor" target="Avakim" id="877" />
+      <edge source="Trantor" target="Entuns" id="878" />
+      <edge source="Trantor" target="Chen" id="879" />
+      <edge source="Trantor" target="Sinon" id="880" />
+      <edge source="Trantor" target="Channis" id="881" />
+      <edge source="Trantor" target="Homir" id="882" />
+      <edge source="Trantor" target="Papa" id="883" />
+      <edge source="Trantor" target="Vos" id="884" />
+      <edge source="Trantor" target="Suivrez" id="885" />
+      <edge source="Trantor" target="Incrusté" id="886" />
+      <edge source="Trantor" target="Maman" id="887" />
+      <edge source="Trantor" target="Massena" id="888" />
+      <edge source="Trantor" target="Smushyk" id="889" />
+      <edge source="Trantor" target="Palvro" id="890" />
+      <edge source="Trantor" target="Turbor" id="891" />
+      <edge source="Trantor" target="Stettin" id="892" />
+      <edge source="Trantor" target="Anthor" id="893" />
+      <edge source="Trantor" target="Gaïens" id="894" />
+      <edge source="Trantor" target="Joie" id="895" />
+      <edge source="Trantor" target="Yariff" id="896" />
+      <edge source="Trantor" target="Comporellon" id="897" />
+      <edge source="Voilà" target="Joie" id="898" />
+      <edge source="Voilà" target="Alpha" id="899" />
+      <edge source="Voilà" target="Hiroko" id="900" />
+      <edge source="Voilà" target="Forell" id="901" />
+      <edge source="Voilà" target="Mulet" id="902" />
+      <edge source="Voilà" target="inquiétude" id="903" />
+      <edge source="Voilà" target="Preem" id="904" />
+      <edge source="Voilà" target="Palver" id="905" />
+      <edge source="Voilà" target="Orateur" id="906" />
+      <edge source="Voilà" target="Golan" id="907" />
+      <edge source="Voilà" target="madame" id="908" />
+      <edge source="Voilà" target="Oratrice" id="909" />
+      <edge source="Voilà" target="Delarmi" id="910" />
+      <edge source="Voilà" target="teniez" id="911" />
+      <edge source="Voilà" target="Korell" id="912" />
+      <edge source="Voilà" target="Brave" id="913" />
+      <edge source="Voilà" target="Gaïa" id="914" />
+      <edge source="Voilà" target="Comporellon" id="915" />
+      <edge source="Voilà" target="Pelorat" id="916" />
+      <edge source="Voilà" target="Alphans" id="917" />
+      <edge source="N'" target="Pelorat" id="918" />
+      <edge source="N'" target="Terminus" id="919" />
+      <edge source="N'" target="Darell" id="920" />
+      <edge source="N'" target="Papa" id="921" />
+      <edge source="N'" target="Trev" id="922" />
+      <edge source="N'" target="N'" id="923" />
+      <edge source="N'" target="inquiétude" id="924" />
+      <edge source="N'" target="Bayta" id="925" />
+      <edge source="N'" target="Y" id="926" />
+      <edge source="N'" target="Branno" id="927" />
+      <edge source="N'" target="Trevize" id="928" />
+      <edge source="N'" target="Gendibal" id="929" />
+      <edge source="N'" target="Hyperespace" id="930" />
+      <edge source="N'" target="Golan" id="931" />
+      <edge source="N'" target="Gaïa" id="932" />
+      <edge source="N'" target="Quintesetz" id="933" />
+      <edge source="N'" target="Janov" id="934" />
+      <edge source="N'" target="Anacréon" id="935" />
+      <edge source="N'" target="Fara" id="936" />
+      <edge source="N'" target="Alurin" id="937" />
+      <edge source="N'" target="Ma" id="938" />
+      <edge source="N'" target="Parlez" id="939" />
+      <edge source="N'" target="Secteur" id="940" />
+      <edge source="N'" target="Seulement" id="941" />
+      <edge source="N'" target="Bonne" id="942" />
+      <edge source="N'" target="Mulet" id="943" />
+      <edge source="N'" target="Homir" id="944" />
+      <edge source="N'" target="Filez" id="945" />
+      <edge source="N'" target="Donne" id="946" />
+      <edge source="N'" target="Munn" id="947" />
+      <edge source="N'" target="Kendray" id="948" />
+      <edge source="N'" target="Comporellon" id="949" />
+      <edge source="N'" target="Joie" id="950" />
+      <edge source="N'" target="Fallom" id="951" />
+      <edge source="Son" target="Excellence" id="952" />
+      <edge source="Son" target="Pritcher" id="953" />
+      <edge source="Son" target="Gendibal" id="954" />
+      <edge source="Son" target="Orateur" id="955" />
+      <edge source="Son" target="Rufirant" id="956" />
+      <edge source="Son" target="Trevize" id="957" />
+      <edge source="Son" target="Gaïa" id="958" />
+      <edge source="Son" target="Dom" id="959" />
+      <edge source="Son" target="inquiétude" id="960" />
+      <edge source="Son" target="Pherl" id="961" />
+      <edge source="Son" target="Twer" id="962" />
+      <edge source="Son" target="Darell" id="963" />
+      <edge source="Son" target="Stettin" id="964" />
+      <edge source="Son" target="Papa" id="965" />
+      <edge source="Son" target="Randu" id="966" />
+      <edge source="Son" target="Bayta" id="967" />
+      <edge source="Son" target="Son" id="968" />
+      <edge source="Son" target="Entrez" id="969" />
+      <edge source="Son" target="Preem" id="970" />
+      <edge source="Son" target="Palver" id="971" />
+      <edge source="Son" target="Golan" id="972" />
+      <edge source="Son" target="Terminus" id="973" />
+      <edge source="Son" target="Astronef" id="974" />
+      <edge source="Son" target="criard" id="975" />
+      <edge source="Son" target="Scychellois" id="976" />
+      <edge source="Son" target="Mulet" id="977" />
+      <edge source="Son" target="Pelorat" id="978" />
+      <edge source="Son" target="Gaïens" id="979" />
+      <edge source="Son" target="Gaal" id="980" />
+      <edge source="Son" target="Jerril" id="981" />
+      <edge source="Son" target="Anselme" id="982" />
+      <edge source="Son" target="Rodric" id="983" />
+      <edge source="Son" target="Anacréon" id="984" />
+      <edge source="Son" target="Fara" id="985" />
+      <edge source="Son" target="Avez" id="986" />
+      <edge source="Son" target="Wienis" id="987" />
+      <edge source="Son" target="Lepold" id="988" />
+      <edge source="Son" target="Channis" id="989" />
+      <edge source="Son" target="Seigneur" id="990" />
+      <edge source="Son" target="Kalgan" id="991" />
+      <edge source="Son" target="Smushyk" id="992" />
+      <edge source="Son" target="Meurtrier" id="993" />
+      <edge source="Son" target="Impossible" id="994" />
+      <edge source="Son" target="Joie" id="995" />
+      <edge source="Son" target="Fallom" id="996" />
+      <edge source="Son" target="brun" id="997" />
+      <edge source="Appelez" target="Fran" id="998" />
+      <edge source="Appelez" target="Golan" id="999" />
+      <edge source="Appelez" target="Trevize" id="1000" />
+      <edge source="Appelez" target="Gaïa" id="1001" />
+      <edge source="Appelez" target="Parlez" id="1002" />
+      <edge source="Appelez" target="Darell" id="1003" />
+      <edge source="Appelez" target="Janov" id="1004" />
+      <edge source="Fran" target="grommela" id="1005" />
+      <edge source="Fran" target="Ma" id="1006" />
+      <edge source="Fran" target="Randu" id="1007" />
+      <edge source="Fran" target="Manchot" id="1008" />
+      <edge source="Fran" target="Bayta" id="1009" />
+      <edge source="Fran" target="Fran" id="1010" />
+      <edge source="grommela" target="Shandess" id="1011" />
+      <edge source="grommela" target="Trevize" id="1012" />
+      <edge source="grommela" target="Gendibal" id="1013" />
+      <edge source="grommela" target="Pelorat" id="1014" />
+      <edge source="grommela" target="Darell" id="1015" />
+      <edge source="grommela" target="Fallom" id="1016" />
+      <edge source="grommela" target="Randu" id="1017" />
+      <edge source="grommela" target="Mis" id="1018" />
+      <edge source="grommela" target="Table" id="1019" />
+      <edge source="grommela" target="Hamiens" id="1020" />
+      <edge source="grommela" target="Gaïa" id="1021" />
+      <edge source="grommela" target="Kalgan" id="1022" />
+      <edge source="grommela" target="Turbor" id="1023" />
+      <edge source="grommela" target="Aurora" id="1024" />
+      <edge source="grommela" target="Daneel" id="1025" />
+      <edge source="Ma" target="Quintesetz" id="1026" />
+      <edge source="Ma" target="Trevize" id="1027" />
+      <edge source="Ma" target="Monsieur" id="1028" />
+      <edge source="Ma" target="Avez" id="1029" />
+      <edge source="Ma" target="diriez" id="1030" />
+      <edge source="Ma" target="Joie" id="1031" />
+      <edge source="Ma" target="Branno" id="1032" />
+      <edge source="Ma" target="Gendibal" id="1033" />
+      <edge source="Ma" target="Anacréon" id="1034" />
+      <edge source="Ma" target="Jugez" id="1035" />
+      <edge source="Ma" target="Anthor" id="1036" />
+      <edge source="Ma" target="Fallom" id="1037" />
+      <edge source="Randu" target="Indbur" id="1038" />
+      <edge source="Randu" target="Mis" id="1039" />
+      <edge source="Randu" target="Bayta" id="1040" />
+      <edge source="Randu" target="Randu" id="1041" />
+      <edge source="Randu" target="Mulet" id="1042" />
+      <edge source="Randu" target="Seigneur" id="1043" />
+      <edge source="Randu" target="Mangin" id="1044" />
+      <edge source="Randu" target="Excellence" id="1045" />
+      <edge source="Randu" target="Terminus" id="1046" />
+      <edge source="Kalgan" target="Mulet" id="1047" />
+      <edge source="Kalgan" target="Seigneur" id="1048" />
+      <edge source="Kalgan" target="Hangar" id="1049" />
+      <edge source="Kalgan" target="Channis" id="1050" />
+      <edge source="Kalgan" target="Seriez" id="1051" />
+      <edge source="Kalgan" target="Nul" id="1052" />
+      <edge source="Kalgan" target="Madame" id="1053" />
+      <edge source="Kalgan" target="Dirige" id="1054" />
+      <edge source="Kalgan" target="Anthor" id="1055" />
+      <edge source="Kalgan" target="Stettin" id="1056" />
+      <edge source="Kalgan" target="Meirus" id="1057" />
+      <edge source="Kalgan" target="Homir" id="1058" />
+      <edge source="Kalgan" target="Kalgan" id="1059" />
+      <edge source="Kalgan" target="Turbor" id="1060" />
+      <edge source="Kalgan" target="Munn" id="1061" />
+      <edge source="Kalgan" target="diriez" id="1062" />
+      <edge source="Kalgan" target="Excellence" id="1063" />
+      <edge source="Kalgan" target="Pritcher" id="1064" />
+      <edge source="Kalgan" target="Bayta" id="1065" />
+      <edge source="Kalgan" target="Golan" id="1066" />
+      <edge source="Kalgan" target="Orateur" id="1067" />
+      <edge source="Kalgan" target="Tazenda" id="1068" />
+      <edge source="Kalgan" target="Terminus" id="1069" />
+      <edge source="Kalgan" target="Jamais" id="1070" />
+      <edge source="Kalgan" target="Darell" id="1071" />
+      <edge source="Kalgan" target="Papa" id="1072" />
+      <edge source="Kalgan" target="Preem" id="1073" />
+      <edge source="Kalgan" target="Palver" id="1074" />
+      <edge source="Kalgan" target="Répondez" id="1075" />
+      <edge source="Kalgan" target="Permettez" id="1076" />
+      <edge source="Kalgan" target="Suivrez" id="1077" />
+      <edge source="Kalgan" target="Joie" id="1078" />
+      <edge source="Kalgan" target="conquérant" id="1079" />
+      <edge source="Mulet" target="Messieurs" id="1080" />
+      <edge source="Mulet" target="Terel" id="1081" />
+      <edge source="Mulet" target="Indbur" id="1082" />
+      <edge source="Mulet" target="Bayta" id="1083" />
+      <edge source="Mulet" target="hein" id="1084" />
+      <edge source="Mulet" target="Magnifico" id="1085" />
+      <edge source="Mulet" target="Mulet" id="1086" />
+      <edge source="Mulet" target="Orateur" id="1087" />
+      <edge source="Mulet" target="Gendibal" id="1088" />
+      <edge source="Mulet" target="Gaïa" id="1089" />
+      <edge source="Mulet" target="Joie" id="1090" />
+      <edge source="Mulet" target="Pritcher" id="1091" />
+      <edge source="Mulet" target="Monsieur" id="1092" />
+      <edge source="Mulet" target="Tazenda" id="1093" />
+      <edge source="Mulet" target="Channis" id="1094" />
+      <edge source="Mulet" target="montrez" id="1095" />
+      <edge source="Mulet" target="Meirus" id="1096" />
+      <edge source="Mulet" target="Brave" id="1097" />
+      <edge source="Mulet" target="Arkady" id="1098" />
+      <edge source="Mulet" target="Excellence" id="1099" />
+      <edge source="Mulet" target="madame" id="1100" />
+      <edge source="Mulet" target="Bay" id="1101" />
+      <edge source="Mulet" target="Magnifiée" id="1102" />
+      <edge source="Mulet" target="Seigneur" id="1103" />
+      <edge source="Mulet" target="Horleggor" id="1104" />
+      <edge source="Mulet" target="Mangin" id="1105" />
+      <edge source="Mulet" target="Radole" id="1106" />
+      <edge source="Mulet" target="Mis" id="1107" />
+      <edge source="Mulet" target="Hella" id="1108" />
+      <edge source="Mulet" target="menton" id="1109" />
+      <edge source="Mulet" target="Supposez" id="1110" />
+      <edge source="Mulet" target="Réfléchissez" id="1111" />
+      <edge source="Mulet" target="Terminus" id="1112" />
+      <edge source="Mulet" target="Commason" id="1113" />
+      <edge source="Mulet" target="Inchney" id="1114" />
+      <edge source="Mulet" target="Néotrantor" id="1115" />
+      <edge source="Mulet" target="Darell" id="1116" />
+      <edge source="Mulet" target="Madame" id="1117" />
+      <edge source="Mulet" target="Déviations" id="1118" />
+      <edge source="Mulet" target="Nul" id="1119" />
+      <edge source="Mulet" target="Surgi" id="1120" />
+      <edge source="Mulet" target="Trevize" id="1121" />
+      <edge source="Mulet" target="Scychellois" id="1122" />
+      <edge source="Mulet" target="Pelorat" id="1123" />
+      <edge source="Mulet" target="Dom" id="1124" />
+      <edge source="Mulet" target="Rares" id="1125" />
+      <edge source="Mulet" target="Suivit" id="1126" />
+      <edge source="Mulet" target="Huxlani" id="1127" />
+      <edge source="Mulet" target="Charnus" id="1128" />
+      <edge source="Mulet" target="Risqué" id="1129" />
+      <edge source="Mulet" target="Confiance" id="1130" />
+      <edge source="Mulet" target="Gagner" id="1131" />
+      <edge source="Mulet" target="Extirper" id="1132" />
+      <edge source="Mulet" target="Parlez" id="1133" />
+      <edge source="Mulet" target="T" id="1134" />
+      <edge source="Mulet" target="Bravo" id="1135" />
+      <edge source="Mulet" target="Connaissez" id="1136" />
+      <edge source="Mulet" target="Homir" id="1137" />
+      <edge source="Mulet" target="Munn" id="1138" />
+      <edge source="Mulet" target="Stettin" id="1139" />
+      <edge source="Mulet" target="Souvenez" id="1140" />
+      <edge source="Mulet" target="Gaïens" id="1141" />
+      <edge source="Seigneur" target="Stettin" id="1142" />
+      <edge source="Seigneur" target="Seigneur" id="1143" />
+      <edge source="Seigneur" target="Magnifico" id="1144" />
+      <edge source="Seigneur" target="Excellence" id="1145" />
+      <edge source="Seigneur" target="Pritcher" id="1146" />
+      <edge source="Seigneur" target="Bayta" id="1147" />
+      <edge source="Seigneur" target="Homir" id="1148" />
+      <edge source="Seigneur" target="Papa" id="1149" />
+      <edge source="Seigneur" target="Darell" id="1150" />
+      <edge source="Seigneur" target="Joie" id="1151" />
+      <edge source="Seigneur" target="Turbor" id="1152" />
+      <edge source="Bayta" target="Magnifico" id="1153" />
+      <edge source="Bayta" target="Bayta" id="1154" />
+      <edge source="Bayta" target="Magnifiée" id="1155" />
+      <edge source="Bayta" target="Détectés" id="1156" />
+      <edge source="Bayta" target="Pritcher" id="1157" />
+      <edge source="Bayta" target="Darell" id="1158" />
+      <edge source="Bayta" target="Arkady" id="1159" />
+      <edge source="Bayta" target="Ton" id="1160" />
+      <edge source="Bayta" target="Hangar" id="1161" />
+      <edge source="Bayta" target="Mis" id="1162" />
+      <edge source="Bayta" target="Terminus" id="1163" />
+      <edge source="Bayta" target="Indbur" id="1164" />
+      <edge source="Bayta" target="Emmenez" id="1165" />
+      <edge source="Bayta" target="Juddee" id="1166" />
+      <edge source="Bayta" target="Bay" id="1167" />
+      <edge source="Bayta" target="Monsieur" id="1168" />
+      <edge source="Bayta" target="Gente" id="1169" />
+      <edge source="Bayta" target="Commason" id="1170" />
+      <edge source="Bayta" target="hein" id="1171" />
+      <edge source="Bayta" target="Pouvez" id="1172" />
+      <edge source="Bayta" target="Y" id="1173" />
+      <edge source="Bayta" target="Avez" id="1174" />
+      <edge source="Bayta" target="Hamienne" id="1175" />
+      <edge source="Bayta" target="T" id="1176" />
+      <edge source="Bayta" target="Homir" id="1177" />
+      <edge source="Continuez" target="Excellence" id="1178" />
+      <edge source="Continuez" target="Janov" id="1179" />
+      <edge source="Continuez" target="Trevize" id="1180" />
+      <edge source="Continuez" target="Terminus" id="1181" />
+      <edge source="Continuez" target="Golan" id="1182" />
+      <edge source="Continuez" target="désactiverez" id="1183" />
+      <edge source="Continuez" target="Joie" id="1184" />
+      <edge source="Continuez" target="Donnez" id="1185" />
+      <edge source="Continuez" target="Pel" id="1186" />
+      <edge source="Continuez" target="Pelorat" id="1187" />
+      <edge source="Excellence" target="Indbur" id="1188" />
+      <edge source="Excellence" target="Pritcher" id="1189" />
+      <edge source="Excellence" target="Excellence" id="1190" />
+      <edge source="Excellence" target="Terminus" id="1191" />
+      <edge source="Magnifico" target="Mis" id="1192" />
+      <edge source="Magnifico" target="Gente" id="1193" />
+      <edge source="Magnifico" target="Heureuse" id="1194" />
+      <edge source="Magnifico" target="Magnifico" id="1195" />
+      <edge source="Magnifico" target="Bay" id="1196" />
+      <edge source="Magnifico" target="Filia" id="1197" />
+      <edge source="Magnifico" target="Commason" id="1198" />
+      <edge source="Magnifico" target="Magnifiée" id="1199" />
+      <edge source="Magnifico" target="Néotrantor" id="1200" />
+      <edge source="Pritcher" target="Mis" id="1201" />
+      <edge source="Pritcher" target="Pouvez" id="1202" />
+      <edge source="Pritcher" target="Channis" id="1203" />
+      <edge source="Pritcher" target="Gardez" id="1204" />
+      <edge source="Pritcher" target="Indbur" id="1205" />
+      <edge source="Pritcher" target="Pritcher" id="1206" />
+      <edge source="Pritcher" target="Monsieur" id="1207" />
+      <edge source="Pritcher" target="Tazenda" id="1208" />
+      <edge source="Pritcher" target="témoignerez" id="1209" />
+      <edge source="Pritcher" target="T" id="1210" />
+      <edge source="Pritcher" target="Rassuré" id="1211" />
+      <edge source="Pritcher" target="menton" id="1212" />
+      <edge source="Mis" target="Indbur" id="1213" />
+      <edge source="Mis" target="Jamais" id="1214" />
+      <edge source="Mis" target="Mis" id="1215" />
+      <edge source="Mis" target="Voudriez" id="1216" />
+      <edge source="Mis" target="Radole" id="1217" />
+      <edge source="Mis" target="Terminus" id="1218" />
+      <edge source="Mis" target="Heureuse" id="1219" />
+      <edge source="Mis" target="Filia" id="1220" />
+      <edge source="Mis" target="Monsieur" id="1221" />
+      <edge source="Mis" target="Magnifiée" id="1222" />
+      <edge source="Mis" target="Naturellement" id="1223" />
+      <edge source="Mis" target="Pelorat" id="1224" />
+      <edge source="Mis" target="Channis" id="1225" />
+      <edge source="Indbur" target="Monsieur" id="1226" />
+      <edge source="Indbur" target="Indbur" id="1227" />
+      <edge source="Indbur" target="Voudriez" id="1228" />
+      <edge source="Indbur" target="Mangin" id="1229" />
+      <edge source="Indbur" target="inquiétude" id="1230" />
+      <edge source="Indbur" target="Terminus" id="1231" />
+      <edge source="Indbur" target="hein" id="1232" />
+      <edge source="Horleggor" target="Horleggor" id="1233" />
+      <edge source="Messieurs" target="Radole" id="1234" />
+      <edge source="Messieurs" target="Darell" id="1235" />
+      <edge source="Monsieur" target="Anthor" id="1236" />
+      <edge source="Monsieur" target="Terminus" id="1237" />
+      <edge source="Monsieur" target="Askone" id="1238" />
+      <edge source="Monsieur" target="Channis" id="1239" />
+      <edge source="Monsieur" target="Comprenez" id="1240" />
+      <edge source="Monsieur" target="Darell" id="1241" />
+      <edge source="Magnifiée" target="Emmenez" id="1242" />
+      <edge source="Magnifiée" target="Commason" id="1243" />
+      <edge source="hein" target="madame" id="1244" />
+      <edge source="hein" target="Néotrantor" id="1245" />
+      <edge source="hein" target="Hamiens" id="1246" />
+      <edge source="hein" target="Trevize" id="1247" />
+      <edge source="hein" target="Liono" id="1248" />
+      <edge source="Détectés" target="Bay" id="1249" />
+      <edge source="Filia" target="Jamais" id="1250" />
+      <edge source="Jamais" target="Réfléchissez" id="1251" />
+      <edge source="Jamais" target="Gaïa" id="1252" />
+      <edge source="Jamais" target="Lizalor" id="1253" />
+      <edge source="Jamais" target="Comporellon" id="1254" />
+      <edge source="Jamais" target="Trevize" id="1255" />
+      <edge source="Jamais" target="Bander" id="1256" />
+      <edge source="Jamais" target="madame" id="1257" />
+      <edge source="Jamais" target="Jamais" id="1258" />
+      <edge source="Jamais" target="Gendibal" id="1259" />
+      <edge source="Jamais" target="Terminus" id="1260" />
+      <edge source="Jamais" target="Grâces" id="1261" />
+      <edge source="Jamais" target="Branno" id="1262" />
+      <edge source="Jamais" target="Kendray" id="1263" />
+      <edge source="Jamais" target="Joie" id="1264" />
+      <edge source="Jamais" target="Deniador" id="1265" />
+      <edge source="Lee" target="Senter" id="1266" />
+      <edge source="Lee" target="Seulement" id="1267" />
+      <edge source="Lee" target="Terminus" id="1268" />
+      <edge source="Lee" target="Lee" id="1269" />
+      <edge source="Lee" target="Sermak" id="1270" />
+      <edge source="Lee" target="Mettez" id="1271" />
+      <edge source="Lee" target="Verisof" id="1272" />
+      <edge source="Lee" target="pro-Hardin" id="1273" />
+      <edge source="Senter" target="Avez" id="1274" />
+      <edge source="Pouvez" target="Lizalor" id="1275" />
+      <edge source="Pouvez" target="Joie" id="1276" />
+      <edge source="Pouvez" target="Pouvez" id="1277" />
+      <edge source="Pouvez" target="Réfléchissez" id="1278" />
+      <edge source="Pouvez" target="Trevize" id="1279" />
+      <edge source="Pouvez" target="Orateur" id="1280" />
+      <edge source="Pouvez" target="madame" id="1281" />
+      <edge source="Pouvez" target="Liono" id="1282" />
+      <edge source="Pouvez" target="Deniador" id="1283" />
+      <edge source="Trevize" target="Branno" id="1284" />
+      <edge source="Trevize" target="Golan" id="1285" />
+      <edge source="Trevize" target="Kodell" id="1286" />
+      <edge source="Trevize" target="Terminus" id="1287" />
+      <edge source="Trevize" target="lutta" id="1288" />
+      <edge source="Trevize" target="Trevize" id="1289" />
+      <edge source="Trevize" target="Pelorat" id="1290" />
+      <edge source="Trevize" target="Gendibal" id="1291" />
+      <edge source="Trevize" target="pépin" id="1292" />
+      <edge source="Trevize" target="Delarmi" id="1293" />
+      <edge source="Trevize" target="Hyperespace" id="1294" />
+      <edge source="Trevize" target="Janov" id="1295" />
+      <edge source="Trevize" target="Avez" id="1296" />
+      <edge source="Trevize" target="Shandess" id="1297" />
+      <edge source="Trevize" target="Gaïa" id="1298" />
+      <edge source="Trevize" target="Quintesetz" id="1299" />
+      <edge source="Trevize" target="Ecoutez" id="1300" />
+      <edge source="Trevize" target="Orateur" id="1301" />
+      <edge source="Trevize" target="Dom" id="1302" />
+      <edge source="Trevize" target="Primo" id="1303" />
+      <edge source="Trevize" target="Joie" id="1304" />
+      <edge source="Trevize" target="Trev" id="1305" />
+      <edge source="Trevize" target="Us" id="1306" />
+      <edge source="Trevize" target="railla" id="1307" />
+      <edge source="Trevize" target="Naturellement" id="1308" />
+      <edge source="Trevize" target="Kendray" id="1309" />
+      <edge source="Trevize" target="Lizalor" id="1310" />
+      <edge source="Trevize" target="Deniador" id="1311" />
+      <edge source="Trevize" target="Réfléchissez" id="1312" />
+      <edge source="Trevize" target="Inutile" id="1313" />
+      <edge source="Trevize" target="Pel" id="1314" />
+      <edge source="Trevize" target="Bander" id="1315" />
+      <edge source="Trevize" target="Regardant" id="1316" />
+      <edge source="Trevize" target="Y" id="1317" />
+      <edge source="Trevize" target="Fallom" id="1318" />
+      <edge source="Trevize" target="Négligemment" id="1319" />
+      <edge source="Trevize" target="Hmmmm" id="1320" />
+      <edge source="Trevize" target="Hiroko" id="1321" />
+      <edge source="Trevize" target="Dégagez" id="1322" />
+      <edge source="Trevize" target="Flexner" id="1323" />
+      <edge source="Trevize" target="Quels" id="1324" />
+      <edge source="Trevize" target="madame" id="1325" />
+      <edge source="Trevize" target="Madame" id="1326" />
+      <edge source="Trevize" target="T" id="1327" />
+      <edge source="Trevize" target="détendez" id="1328" />
+      <edge source="Trevize" target="Parlez" id="1329" />
+      <edge source="Trevize" target="Gardez" id="1330" />
+      <edge source="Trevize" target="Poursuivez" id="1331" />
+      <edge source="Trevize" target="Oratrice" id="1332" />
+      <edge source="Trevize" target="menton" id="1333" />
+      <edge source="Trevize" target="Superbe" id="1334" />
+      <edge source="Trevize" target="Munn" id="1335" />
+      <edge source="Trevize" target="Mettre" id="1336" />
+      <edge source="Trevize" target="Guère" id="1337" />
+      <edge source="Trevize" target="Intéressant" id="1338" />
+      <edge source="Trevize" target="Accordez" id="1339" />
+      <edge source="Trevize" target="Vus" id="1340" />
+      <edge source="Trevize" target="Grâces" id="1341" />
+      <edge source="Trevize" target="supposez" id="1342" />
+      <edge source="Trevize" target="Fondamentale" id="1343" />
+      <edge source="Trevize" target="Globusculaire" id="1344" />
+      <edge source="Trevize" target="Professeur" id="1345" />
+      <edge source="Trevize" target="Scychellois" id="1346" />
+      <edge source="Trevize" target="Anonymement" id="1347" />
+      <edge source="Trevize" target="Magnifique" id="1348" />
+      <edge source="Trevize" target="Liono" id="1349" />
+      <edge source="Trevize" target="Maigre" id="1350" />
+      <edge source="Trevize" target="Seriez" id="1351" />
+      <edge source="Trevize" target="Brann" id="1352" />
+      <edge source="Trevize" target="Canalisée" id="1353" />
+      <edge source="Trevize" target="Gaï'" id="1354" />
+      <edge source="Trevize" target="Comporellon" id="1355" />
+      <edge source="Trevize" target="Connaissez" id="1356" />
+      <edge source="Trevize" target="Retournez" id="1357" />
+      <edge source="Trevize" target="Vulgarisme" id="1358" />
+      <edge source="Trevize" target="Gros" id="1359" />
+      <edge source="Trevize" target="Gaïens" id="1360" />
+      <edge source="Trevize" target="Chair" id="1361" />
+      <edge source="Trevize" target="Aurora" id="1362" />
+      <edge source="Trevize" target="Souriante" id="1363" />
+      <edge source="Trevize" target="Entrez" id="1364" />
+      <edge source="Trevize" target="Guetter" id="1365" />
+      <edge source="Trevize" target="Donnez" id="1366" />
+      <edge source="Trevize" target="Maîtres" id="1367" />
+      <edge source="Trevize" target="Salaria" id="1368" />
+      <edge source="Trevize" target="inquiétude" id="1369" />
+      <edge source="Trevize" target="Retourner" id="1370" />
+      <edge source="Trevize" target="Incroyable" id="1371" />
+      <edge source="Trevize" target="Jemby" id="1372" />
+      <edge source="Trevize" target="Melpomenia" id="1373" />
+      <edge source="Trevize" target="Considérez" id="1374" />
+      <edge source="Trevize" target="Alpha" id="1375" />
+      <edge source="Trevize" target="brun" id="1376" />
+      <edge source="Trevize" target="Fili" id="1377" />
+      <edge source="Trevize" target="Alphans" id="1378" />
+      <edge source="Trevize" target="Alphane" id="1379" />
+      <edge source="Trevize" target="Refermez" id="1380" />
+      <edge source="Trevize" target="Prenez" id="1381" />
+      <edge source="Trevize" target="Rendons" id="1382" />
+      <edge source="Trevize" target="Daneel" id="1383" />
+      <edge source="Trevize" target="Bonne" id="1384" />
+      <edge source="Madame" target="Branno" id="1385" />
+      <edge source="Madame" target="Arkady" id="1386" />
+      <edge source="Madame" target="Darell" id="1387" />
+      <edge source="Madame" target="Kodell" id="1388" />
+      <edge source="Madame" target="Madame" id="1389" />
+      <edge source="Madame" target="Miséricorde" id="1390" />
+      <edge source="Madame" target="Homir" id="1391" />
+      <edge source="Branno" target="Terminus" id="1392" />
+      <edge source="Branno" target="Kodell" id="1393" />
+      <edge source="Branno" target="Liono" id="1394" />
+      <edge source="Branno" target="Gendibal" id="1395" />
+      <edge source="Branno" target="Nul" id="1396" />
+      <edge source="Branno" target="Branno" id="1397" />
+      <edge source="Branno" target="lutta" id="1398" />
+      <edge source="Branno" target="Arkady" id="1399" />
+      <edge source="Branno" target="Darell" id="1400" />
+      <edge source="Branno" target="Quels" id="1401" />
+      <edge source="Branno" target="Secteur" id="1402" />
+      <edge source="Branno" target="Permettez" id="1403" />
+      <edge source="Branno" target="inquiétude" id="1404" />
+      <edge source="Branno" target="Janov" id="1405" />
+      <edge source="Branno" target="Gaïa" id="1406" />
+      <edge source="Branno" target="Gaïens" id="1407" />
+      <edge source="Branno" target="Primo" id="1408" />
+      <edge source="Branno" target="Pelorat" id="1409" />
+      <edge source="Branno" target="Orateur" id="1410" />
+      <edge source="Branno" target="madame" id="1411" />
+      <edge source="Branno" target="Joie" id="1412" />
+      <edge source="Golan" target="Pelorat" id="1413" />
+      <edge source="Golan" target="Gendibal" id="1414" />
+      <edge source="Golan" target="Ecoutez" id="1415" />
+      <edge source="Golan" target="Gaïa" id="1416" />
+      <edge source="Golan" target="Joie" id="1417" />
+      <edge source="Golan" target="Terminus" id="1418" />
+      <edge source="Golan" target="Janov" id="1419" />
+      <edge source="Golan" target="Adieu" id="1420" />
+      <edge source="Golan" target="Sinon" id="1421" />
+      <edge source="Golan" target="Sauriez" id="1422" />
+      <edge source="Golan" target="Oratrice" id="1423" />
+      <edge source="Golan" target="Delarmi" id="1424" />
+      <edge source="Golan" target="Orateur" id="1425" />
+      <edge source="Golan" target="Parlez" id="1426" />
+      <edge source="Golan" target="Comporellon" id="1427" />
+      <edge source="Golan" target="Quintesetz" id="1428" />
+      <edge source="Golan" target="Supposons" id="1429" />
+      <edge source="Golan" target="madame" id="1430" />
+      <edge source="Golan" target="menton" id="1431" />
+      <edge source="Golan" target="Golan" id="1432" />
+      <edge source="Golan" target="Fallom" id="1433" />
+      <edge source="Golan" target="Yariff" id="1434" />
+      <edge source="Golan" target="Hiroko" id="1435" />
+      <edge source="Golan" target="Pel" id="1436" />
+      <edge source="Golan" target="Melpomenia" id="1437" />
+      <edge source="Liono" target="Kodell" id="1438" />
+      <edge source="Liono" target="madame" id="1439" />
+      <edge source="Liono" target="Gaïa" id="1440" />
+      <edge source="Kodell" target="Avez" id="1441" />
+      <edge source="Kodell" target="Secteur" id="1442" />
+      <edge source="Kodell" target="Gaïa" id="1443" />
+      <edge source="Kodell" target="Inutile" id="1444" />
+      <edge source="Kodell" target="Terminus" id="1445" />
+      <edge source="Kodell" target="madame" id="1446" />
+      <edge source="Kodell" target="Kodell" id="1447" />
+      <edge source="Kodell" target="Gendibal" id="1448" />
+      <edge source="Avez" target="Gendibal" id="1449" />
+      <edge source="Avez" target="Orateur" id="1450" />
+      <edge source="Avez" target="Trev" id="1451" />
+      <edge source="Avez" target="Pelorat" id="1452" />
+      <edge source="Avez" target="Avez" id="1453" />
+      <edge source="Avez" target="inquiétude" id="1454" />
+      <edge source="Avez" target="Terminus" id="1455" />
+      <edge source="Avez" target="Santanni" id="1456" />
+      <edge source="Avez" target="Shandess" id="1457" />
+      <edge source="Avez" target="Table" id="1458" />
+      <edge source="Avez" target="Delarmi" id="1459" />
+      <edge source="Avez" target="Janov" id="1460" />
+      <edge source="Avez" target="Accordez" id="1461" />
+      <edge source="Avez" target="Quintesetz" id="1462" />
+      <edge source="Avez" target="Channis" id="1463" />
+      <edge source="Avez" target="Tazenda" id="1464" />
+      <edge source="Avez" target="Joie" id="1465" />
+      <edge source="Avez" target="Bander" id="1466" />
+      <edge source="Terminus" target="parsec" id="1467" />
+      <edge source="Terminus" target="madame" id="1468" />
+      <edge source="Terminus" target="Grâces" id="1469" />
+      <edge source="Terminus" target="Janov" id="1470" />
+      <edge source="Terminus" target="Pelorat" id="1471" />
+      <edge source="Terminus" target="Gaïa" id="1472" />
+      <edge source="Terminus" target="Scychellois" id="1473" />
+      <edge source="Terminus" target="Orateur" id="1474" />
+      <edge source="Terminus" target="Chen" id="1475" />
+      <edge source="Terminus" target="Rodric" id="1476" />
+      <edge source="Terminus" target="Darell" id="1477" />
+      <edge source="Terminus" target="Comporellon" id="1478" />
+      <edge source="Terminus" target="Terminus" id="1479" />
+      <edge source="Terminus" target="lutta" id="1480" />
+      <edge source="Terminus" target="T" id="1481" />
+      <edge source="Terminus" target="Anacréon" id="1482" />
+      <edge source="Terminus" target="Seulement" id="1483" />
+      <edge source="Terminus" target="J.L.G." id="1484" />
+      <edge source="Terminus" target="Gendibal" id="1485" />
+      <edge source="Terminus" target="Astronef" id="1486" />
+      <edge source="Terminus" target="Munn" id="1487" />
+      <edge source="Terminus" target="Palver" id="1488" />
+      <edge source="Terminus" target="Quintesetz" id="1489" />
+      <edge source="Terminus" target="Magnifique" id="1490" />
+      <edge source="Terminus" target="Ecoutez" id="1491" />
+      <edge source="Terminus" target="Commissaire" id="1492" />
+      <edge source="Terminus" target="Dorwin" id="1493" />
+      <edge source="Terminus" target="Sermak" id="1494" />
+      <edge source="Terminus" target="Wienis" id="1495" />
+      <edge source="Terminus" target="Poli" id="1496" />
+      <edge source="Terminus" target="Papa" id="1497" />
+      <edge source="Terminus" target="Meirus" id="1498" />
+      <edge source="Terminus" target="Homir" id="1499" />
+      <edge source="Terminus" target="Souvenez" id="1500" />
+      <edge source="Terminus" target="Gaïens" id="1501" />
+      <edge source="Terminus" target="Joie" id="1502" />
+      <edge source="Terminus" target="Kendray" id="1503" />
+      <edge source="Terminus" target="Connaissez" id="1504" />
+      <edge source="Terminus" target="Deniador" id="1505" />
+      <edge source="Terminus" target="Retourner" id="1506" />
+      <edge source="Darell" target="Arkady" id="1507" />
+      <edge source="Darell" target="Heureuse" id="1508" />
+      <edge source="Darell" target="Anthor" id="1509" />
+      <edge source="Darell" target="Palver" id="1510" />
+      <edge source="Darell" target="Homir" id="1511" />
+      <edge source="Darell" target="Munn" id="1512" />
+      <edge source="Darell" target="Vos" id="1513" />
+      <edge source="Darell" target="Darell" id="1514" />
+      <edge source="Darell" target="Hamienne" id="1515" />
+      <edge source="Darell" target="T" id="1516" />
+      <edge source="Darell" target="Kleise" id="1517" />
+      <edge source="Darell" target="Ecoutez" id="1518" />
+      <edge source="Darell" target="Poli" id="1519" />
+      <edge source="Darell" target="criard" id="1520" />
+      <edge source="Darell" target="Stettin" id="1521" />
+      <edge source="Darell" target="Semic" id="1522" />
+      <edge source="Darell" target="Dirige" id="1523" />
+      <edge source="Darell" target="Preem" id="1524" />
+      <edge source="Darell" target="Bravo" id="1525" />
+      <edge source="Darell" target="Turbor" id="1526" />
+      <edge source="Darell" target="Intéressant" id="1527" />
+      <edge source="Darell" target="Orateur" id="1528" />
+      <edge source="Arkady" target="Heureuse" id="1529" />
+      <edge source="Arkady" target="Arkady" id="1530" />
+      <edge source="Arkady" target="Anthor" id="1531" />
+      <edge source="Arkady" target="Preem" id="1532" />
+      <edge source="Arkady" target="Palver" id="1533" />
+      <edge source="lutta" target="Pelorat" id="1534" />
+      <edge source="lutta" target="Joie" id="1535" />
+      <edge source="madame" target="Gendibal" id="1536" />
+      <edge source="madame" target="Supposez" id="1537" />
+      <edge source="madame" target="Lizalor" id="1538" />
+      <edge source="madame" target="Joie" id="1539" />
+      <edge source="madame" target="Pelorat" id="1540" />
+      <edge source="madame" target="Gaïa" id="1541" />
+      <edge source="madame" target="Victimes" id="1542" />
+      <edge source="madame" target="Anthor" id="1543" />
+      <edge source="madame" target="Kendray" id="1544" />
+      <edge source="madame" target="Janov" id="1545" />
+      <edge source="parsec" target="parsec" id="1546" />
+      <edge source="parsec" target="Alpha" id="1547" />
+      <edge source="parsec" target="Pelorat" id="1548" />
+      <edge source="Historien" target="Janov" id="1549" />
+      <edge source="Historien" target="Pelorat" id="1550" />
+      <edge source="Janov" target="Pelorat" id="1551" />
+      <edge source="Janov" target="Gaïa" id="1552" />
+      <edge source="Janov" target="Descendons" id="1553" />
+      <edge source="Janov" target="Orateur" id="1554" />
+      <edge source="Janov" target="Vos" id="1555" />
+      <edge source="Janov" target="Détendez" id="1556" />
+      <edge source="Janov" target="Ecoutez" id="1557" />
+      <edge source="Janov" target="Rappelez" id="1558" />
+      <edge source="Janov" target="Trev" id="1559" />
+      <edge source="Janov" target="Joie" id="1560" />
+      <edge source="Janov" target="Fallom" id="1561" />
+      <edge source="Janov" target="Levez" id="1562" />
+      <edge source="Janov" target="considérez" id="1563" />
+      <edge source="Janov" target="Connaissez" id="1564" />
+      <edge source="Janov" target="Parlez" id="1565" />
+      <edge source="Janov" target="Hyperespace" id="1566" />
+      <edge source="Janov" target="Guère" id="1567" />
+      <edge source="Janov" target="Accordez" id="1568" />
+      <edge source="Janov" target="Quintesetz" id="1569" />
+      <edge source="Janov" target="Janov" id="1570" />
+      <edge source="Janov" target="Touché" id="1571" />
+      <edge source="Janov" target="Comporellon" id="1572" />
+      <edge source="Janov" target="Kendray" id="1573" />
+      <edge source="Janov" target="Bander" id="1574" />
+      <edge source="Janov" target="Y" id="1575" />
+      <edge source="Janov" target="Aurora" id="1576" />
+      <edge source="Janov" target="Fallorn" id="1577" />
+      <edge source="Janov" target="Inutile" id="1578" />
+      <edge source="Janov" target="Baissant" id="1579" />
+      <edge source="Janov" target="Revenez" id="1580" />
+      <edge source="Janov" target="Melpomenia" id="1581" />
+      <edge source="Janov" target="Hiroko" id="1582" />
+      <edge source="Pelorat" target="Oratrice" id="1583" />
+      <edge source="Pelorat" target="Delarmi" id="1584" />
+      <edge source="Pelorat" target="Guère" id="1585" />
+      <edge source="Pelorat" target="T" id="1586" />
+      <edge source="Pelorat" target="Pelorat" id="1587" />
+      <edge source="Pelorat" target="Orateur" id="1588" />
+      <edge source="Pelorat" target="Gaïa" id="1589" />
+      <edge source="Pelorat" target="Quintesetz" id="1590" />
+      <edge source="Pelorat" target="Joie" id="1591" />
+      <edge source="Pelorat" target="Pel" id="1592" />
+      <edge source="Pelorat" target="Dom" id="1593" />
+      <edge source="Pelorat" target="Comporellon" id="1594" />
+      <edge source="Pelorat" target="inquiétude" id="1595" />
+      <edge source="Pelorat" target="Kendray" id="1596" />
+      <edge source="Pelorat" target="Vulgarisme" id="1597" />
+      <edge source="Pelorat" target="Gros" id="1598" />
+      <edge source="Pelorat" target="Superbe" id="1599" />
+      <edge source="Pelorat" target="Incroyable" id="1600" />
+      <edge source="Pelorat" target="Bander" id="1601" />
+      <edge source="Pelorat" target="Y" id="1602" />
+      <edge source="Pelorat" target="Fallom" id="1603" />
+      <edge source="Pelorat" target="Baissant" id="1604" />
+      <edge source="Pelorat" target="Viens" id="1605" />
+      <edge source="Pelorat" target="Sinon" id="1606" />
+      <edge source="Pelorat" target="Connaissez" id="1607" />
+      <edge source="Pelorat" target="Parlez" id="1608" />
+      <edge source="Pelorat" target="Hyperespace" id="1609" />
+      <edge source="Pelorat" target="Poursuivez" id="1610" />
+      <edge source="Pelorat" target="Concentrez" id="1611" />
+      <edge source="Pelorat" target="Gendibal" id="1612" />
+      <edge source="Pelorat" target="Ecoutez" id="1613" />
+      <edge source="Pelorat" target="Rappelez" id="1614" />
+      <edge source="Pelorat" target="Accordez" id="1615" />
+      <edge source="Pelorat" target="Askone" id="1616" />
+      <edge source="Pelorat" target="Anonymement" id="1617" />
+      <edge source="Pelorat" target="Trev" id="1618" />
+      <edge source="Pelorat" target="Gennerat" id="1619" />
+      <edge source="Pelorat" target="Primo" id="1620" />
+      <edge source="Pelorat" target="Passez" id="1621" />
+      <edge source="Pelorat" target="Gaïens" id="1622" />
+      <edge source="Pelorat" target="Supposons" id="1623" />
+      <edge source="Pelorat" target="Munn" id="1624" />
+      <edge source="Pelorat" target="brun" id="1625" />
+      <edge source="Pelorat" target="Comporellien" id="1626" />
+      <edge source="Pelorat" target="Deniador" id="1627" />
+      <edge source="Pelorat" target="menton" id="1628" />
+      <edge source="Pelorat" target="Voire" id="1629" />
+      <edge source="Pelorat" target="Aurora" id="1630" />
+      <edge source="Pelorat" target="Souriante" id="1631" />
+      <edge source="Pelorat" target="Regardant" id="1632" />
+      <edge source="Pelorat" target="Inutile" id="1633" />
+      <edge source="Pelorat" target="Melpomenia" id="1634" />
+      <edge source="Pelorat" target="Revenez" id="1635" />
+      <edge source="Pelorat" target="Alpha" id="1636" />
+      <edge source="Pelorat" target="Bêta" id="1637" />
+      <edge source="Pelorat" target="tirez" id="1638" />
+      <edge source="Pelorat" target="Hiroko" id="1639" />
+      <edge source="Pelorat" target="Prenez" id="1640" />
+      <edge source="Pelorat" target="Daneel" id="1641" />
+      <edge source="Secteur" target="Parlez" id="1642" />
+      <edge source="Réfléchissez" target="Joie" id="1643" />
+      <edge source="Réfléchissez" target="pouviez" id="1644" />
+      <edge source="Réfléchissez" target="Réfléchissez" id="1645" />
+      <edge source="Ecoutez" target="Orateur" id="1646" />
+      <edge source="Ecoutez" target="Gendibal" id="1647" />
+      <edge source="Ecoutez" target="Comporellon" id="1648" />
+      <edge source="Ecoutez" target="Jugez" id="1649" />
+      <edge source="Ecoutez" target="Anthor" id="1650" />
+      <edge source="Ecoutez" target="Semic" id="1651" />
+      <edge source="Ecoutez" target="Oratrice" id="1652" />
+      <edge source="Ecoutez" target="Delarmi" id="1653" />
+      <edge source="Ecoutez" target="Joie" id="1654" />
+      <edge source="Ecoutez" target="Gaïa" id="1655" />
+      <edge source="Ecoutez" target="Jael" id="1656" />
+      <edge source="Ecoutez" target="inquiétude" id="1657" />
+      <edge source="Ecoutez" target="Montrez" id="1658" />
+      <edge source="Ecoutez" target="Fallom" id="1659" />
+      <edge source="Orateur" target="Gendibal" id="1660" />
+      <edge source="Orateur" target="Table" id="1661" />
+      <edge source="Orateur" target="Orateur" id="1662" />
+      <edge source="Orateur" target="Delarmi" id="1663" />
+      <edge source="Orateur" target="Oratrice" id="1664" />
+      <edge source="Orateur" target="Shandess" id="1665" />
+      <edge source="Orateur" target="Preem" id="1666" />
+      <edge source="Orateur" target="Palver" id="1667" />
+      <edge source="Orateur" target="Primo" id="1668" />
+      <edge source="Orateur" target="Pal" id="1669" />
+      <edge source="Orateur" target="Déviations" id="1670" />
+      <edge source="Orateur" target="Hamiens" id="1671" />
+      <edge source="Orateur" target="Y" id="1672" />
+      <edge source="Orateur" target="Inutile" id="1673" />
+      <edge source="Orateur" target="Mettre" id="1674" />
+      <edge source="Orateur" target="Nul" id="1675" />
+      <edge source="Orateur" target="Accordez" id="1676" />
+      <edge source="Orateur" target="Sura" id="1677" />
+      <edge source="Orateur" target="Gaïa" id="1678" />
+      <edge source="Orateur" target="pépin" id="1679" />
+      <edge source="Orateur" target="Racontez" id="1680" />
+      <edge source="Orateur" target="T" id="1681" />
+      <edge source="Orateur" target="Joie" id="1682" />
+      <edge source="Orateur" target="Storgendibal" id="1683" />
+      <edge source="Orateur" target="Channis" id="1684" />
+      <edge source="Orateur" target="Tazenda" id="1685" />
+      <edge source="Orateur" target="Naturellement" id="1686" />
+      <edge source="Orateur" target="Comprenez" id="1687" />
+      <edge source="Orateur" target="Sinon" id="1688" />
+      <edge source="Orateur" target="Parlez" id="1689" />
+      <edge source="Gendibal" target="Table" id="1690" />
+      <edge source="Gendibal" target="Gendibal" id="1691" />
+      <edge source="Gendibal" target="Oratrice" id="1692" />
+      <edge source="Gendibal" target="Poursuivez" id="1693" />
+      <edge source="Gendibal" target="Mettre" id="1694" />
+      <edge source="Gendibal" target="Delarmi" id="1695" />
+      <edge source="Gendibal" target="Intéressant" id="1696" />
+      <edge source="Gendibal" target="Ecoute" id="1697" />
+      <edge source="Gendibal" target="Preem" id="1698" />
+      <edge source="Gendibal" target="Palver" id="1699" />
+      <edge source="Gendibal" target="Shandess" id="1700" />
+      <edge source="Gendibal" target="Hamien" id="1701" />
+      <edge source="Gendibal" target="Déviations" id="1702" />
+      <edge source="Gendibal" target="brun" id="1703" />
+      <edge source="Gendibal" target="Rufirant" id="1704" />
+      <edge source="Gendibal" target="Y" id="1705" />
+      <edge source="Gendibal" target="Vas" id="1706" />
+      <edge source="Gendibal" target="Finissez" id="1707" />
+      <edge source="Gendibal" target="Nul" id="1708" />
+      <edge source="Gendibal" target="Grâces" id="1709" />
+      <edge source="Gendibal" target="Hamienne" id="1710" />
+      <edge source="Gendibal" target="Hamiens" id="1711" />
+      <edge source="Gendibal" target="Trantorien" id="1712" />
+      <edge source="Gendibal" target="Racontez" id="1713" />
+      <edge source="Gendibal" target="Gaïa" id="1714" />
+      <edge source="Preem" target="Palver" id="1715" />
+      <edge source="Preem" target="Pal" id="1716" />
+      <edge source="Preem" target="Déviations" id="1717" />
+      <edge source="Preem" target="Delarmi" id="1718" />
+      <edge source="Preem" target="Table" id="1719" />
+      <edge source="Preem" target="Vos" id="1720" />
+      <edge source="Preem" target="Papa" id="1721" />
+      <edge source="Preem" target="Répondez" id="1722" />
+      <edge source="Preem" target="Tipellum" id="1723" />
+      <edge source="Palver" target="Palvro" id="1724" />
+      <edge source="Palver" target="Turbor" id="1725" />
+      <edge source="Palver" target="Bravo" id="1726" />
+      <edge source="Palver" target="Palver" id="1727" />
+      <edge source="Palver" target="Delarmi" id="1728" />
+      <edge source="Palver" target="Table" id="1729" />
+      <edge source="Palver" target="Nul" id="1730" />
+      <edge source="Palver" target="Vos" id="1731" />
+      <edge source="Palver" target="Papa" id="1732" />
+      <edge source="Palver" target="Répondez" id="1733" />
+      <edge source="Palver" target="Partirez" id="1734" />
+      <edge source="Palver" target="Tipellum" id="1735" />
+      <edge source="Palver" target="Demeuré" id="1736" />
+      <edge source="Pal" target="Déviations" id="1737" />
+      <edge source="Anacréon" target="Anacréon" id="1738" />
+      <edge source="Anacréon" target="Mettre" id="1739" />
+      <edge source="Anacréon" target="Lepold" id="1740" />
+      <edge source="Anacréon" target="Sermak" id="1741" />
+      <edge source="Anacréon" target="inquiétude" id="1742" />
+      <edge source="Anacréon" target="Inutile" id="1743" />
+      <edge source="Anacréon" target="Dorwin" id="1744" />
+      <edge source="Anacréon" target="Fara" id="1745" />
+      <edge source="Anacréon" target="Rodric" id="1746" />
+      <edge source="Anacréon" target="Verisof" id="1747" />
+      <edge source="Anacréon" target="Wienis" id="1748" />
+      <edge source="Anacréon" target="Bort" id="1749" />
+      <edge source="Anacréon" target="Walto" id="1750" />
+      <edge source="Anacréon" target="Faute" id="1751" />
+      <edge source="Seulement" target="Seulement" id="1752" />
+      <edge source="Table" target="Shandess" id="1753" />
+      <edge source="Table" target="Table" id="1754" />
+      <edge source="Table" target="Delarmi" id="1755" />
+      <edge source="Table" target="Oratrice" id="1756" />
+      <edge source="Rufirant" target="Sura" id="1757" />
+      <edge source="Rufirant" target="Y" id="1758" />
+      <edge source="Rufirant" target="Delarmi" id="1759" />
+      <edge source="Shandess" target="Delarmi" id="1760" />
+      <edge source="Delarmi" target="Oratrice" id="1761" />
+      <edge source="Delarmi" target="Inutile" id="1762" />
+      <edge source="Delarmi" target="Delarmi" id="1763" />
+      <edge source="Delarmi" target="Hamien" id="1764" />
+      <edge source="Delarmi" target="Sura" id="1765" />
+      <edge source="Delarmi" target="Finissez" id="1766" />
+      <edge source="Delarmi" target="Racontez" id="1767" />
+      <edge source="Sura" target="Sura" id="1768" />
+      <edge source="Sura" target="Oratrice" id="1769" />
+      <edge source="Sura" target="Accordez" id="1770" />
+      <edge source="Oratrice" target="Inutile" id="1771" />
+      <edge source="Oratrice" target="Racontez" id="1772" />
+      <edge source="Gaïa" target="Quintesetz" id="1773" />
+      <edge source="Gaïa" target="Gaïa" id="1774" />
+      <edge source="Gaïa" target="Pel" id="1775" />
+      <edge source="Gaïa" target="Joie" id="1776" />
+      <edge source="Gaïa" target="Trev" id="1777" />
+      <edge source="Gaïa" target="Dom" id="1778" />
+      <edge source="Gaïa" target="Ferez" id="1779" />
+      <edge source="Gaïa" target="Gaïens" id="1780" />
+      <edge source="Gaïa" target="Supposez" id="1781" />
+      <edge source="Gaïa" target="Retourner" id="1782" />
+      <edge source="Gaïa" target="Fallom" id="1783" />
+      <edge source="Gaïa" target="Daneel" id="1784" />
+      <edge source="Gaïa" target="Censé" id="1785" />
+      <edge source="Gaïa" target="Scychellois" id="1786" />
+      <edge source="Gaïa" target="Détendez" id="1787" />
+      <edge source="Gaïa" target="Saisir" id="1788" />
+      <edge source="Gaïa" target="Impossible" id="1789" />
+      <edge source="Gaïa" target="Maigre" id="1790" />
+      <edge source="Gaïa" target="Y" id="1791" />
+      <edge source="Gaïa" target="Avancez" id="1792" />
+      <edge source="Gaïa" target="Primo" id="1793" />
+      <edge source="Gaïa" target="Canalisée" id="1794" />
+      <edge source="Gaïa" target="Lois" id="1795" />
+      <edge source="Gaïa" target="Certaine" id="1796" />
+      <edge source="Gaïa" target="Comporellon" id="1797" />
+      <edge source="Gaïa" target="Souvenez" id="1798" />
+      <edge source="Gaïa" target="menton" id="1799" />
+      <edge source="Gaïa" target="Erda" id="1800" />
+      <edge source="Gaïa" target="Alpha" id="1801" />
+      <edge source="Gaïa" target="inquiétude" id="1802" />
+      <edge source="Gaïa" target="Jemby" id="1803" />
+      <edge source="Inutile" target="Licia" id="1804" />
+      <edge source="Inutile" target="Joie" id="1805" />
+      <edge source="Inutile" target="Bander" id="1806" />
+      <edge source="Poursuivez" target="Pel" id="1807" />
+      <edge source="Poursuivez" target="Concentrez" id="1808" />
+      <edge source="Poursuivez" target="Joie" id="1809" />
+      <edge source="Superbe" target="Superbe" id="1810" />
+      <edge source="Superbe" target="Pel" id="1811" />
+      <edge source="Sinon" target="Sauriez" id="1812" />
+      <edge source="Comporellon" target="Comporellon" id="1813" />
+      <edge source="Comporellon" target="Y" id="1814" />
+      <edge source="Comporellon" target="Deniador" id="1815" />
+      <edge source="Comporellon" target="Munn" id="1816" />
+      <edge source="Comporellon" target="Puissance" id="1817" />
+      <edge source="Comporellon" target="Lizalor" id="1818" />
+      <edge source="Comporellon" target="Joie" id="1819" />
+      <edge source="Comporellon" target="Baleyworld" id="1820" />
+      <edge source="Comporellon" target="Aurora" id="1821" />
+      <edge source="Comporellon" target="Melpomenia" id="1822" />
+      <edge source="Comporellon" target="Hiroko" id="1823" />
+      <edge source="Comporellon" target="Rendons" id="1824" />
+      <edge source="T" target="Channis" id="1825" />
+      <edge source="Intéressant" target="Intéressant" id="1826" />
+      <edge source="Quintesetz" target="Professeur" id="1827" />
+      <edge source="Quintesetz" target="Quintesetz" id="1828" />
+      <edge source="Vos" target="Papa" id="1829" />
+      <edge source="Vos" target="Twer" id="1830" />
+      <edge source="Maîtres" target="Maîtres" id="1831" />
+      <edge source="Primo" target="supposez" id="1832" />
+      <edge source="Impossible" target="supposez" id="1833" />
+      <edge source="Impossible" target="Askone" id="1834" />
+      <edge source="Impossible" target="Semic" id="1835" />
+      <edge source="Impossible" target="Lizalor" id="1836" />
+      <edge source="Joie" target="Joie" id="1837" />
+      <edge source="Joie" target="Pel" id="1838" />
+      <edge source="Joie" target="Turbor" id="1839" />
+      <edge source="Joie" target="Bander" id="1840" />
+      <edge source="Joie" target="Souriante" id="1841" />
+      <edge source="Joie" target="Fallom" id="1842" />
+      <edge source="Joie" target="Y" id="1843" />
+      <edge source="Joie" target="tirez" id="1844" />
+      <edge source="Joie" target="Alpha" id="1845" />
+      <edge source="Joie" target="Hiroko" id="1846" />
+      <edge source="Joie" target="Trev" id="1847" />
+      <edge source="Joie" target="Dom" id="1848" />
+      <edge source="Joie" target="Passez" id="1849" />
+      <edge source="Joie" target="Rappelez" id="1850" />
+      <edge source="Joie" target="Gaï'" id="1851" />
+      <edge source="Joie" target="Semic" id="1852" />
+      <edge source="Joie" target="Stettin" id="1853" />
+      <edge source="Joie" target="Touché" id="1854" />
+      <edge source="Joie" target="Voudriez" id="1855" />
+      <edge source="Joie" target="Mettez" id="1856" />
+      <edge source="Joie" target="inquiétude" id="1857" />
+      <edge source="Joie" target="Kendray" id="1858" />
+      <edge source="Joie" target="Deniador" id="1859" />
+      <edge source="Joie" target="Comporellien" id="1860" />
+      <edge source="Joie" target="Naturellement" id="1861" />
+      <edge source="Joie" target="désactiverez" id="1862" />
+      <edge source="Joie" target="Aurora" id="1863" />
+      <edge source="Joie" target="Incroyable" id="1864" />
+      <edge source="Joie" target="Jemby" id="1865" />
+      <edge source="Joie" target="Hmmmm" id="1866" />
+      <edge source="Joie" target="Donnez" id="1867" />
+      <edge source="Joie" target="Melpomenia" id="1868" />
+      <edge source="Joie" target="Alphans" id="1869" />
+      <edge source="Joie" target="Refermez" id="1870" />
+      <edge source="Joie" target="Prenez" id="1871" />
+      <edge source="Joie" target="Daneel" id="1872" />
+      <edge source="Pel" target="Trev" id="1873" />
+      <edge source="Pel" target="Pel" id="1874" />
+      <edge source="Pel" target="Bander" id="1875" />
+      <edge source="Pel" target="Y" id="1876" />
+      <edge source="Pel" target="Gaïen" id="1877" />
+      <edge source="Pel" target="Dom" id="1878" />
+      <edge source="Pel" target="inquiétude" id="1879" />
+      <edge source="Pel" target="Kendray" id="1880" />
+      <edge source="Pel" target="Fallom" id="1881" />
+      <edge source="Pel" target="Fallorn" id="1882" />
+      <edge source="Pel" target="Donnez" id="1883" />
+      <edge source="Pel" target="Jemby" id="1884" />
+      <edge source="Trev" target="Dom" id="1885" />
+      <edge source="Trev" target="Avancez" id="1886" />
+      <edge source="Trev" target="Gaïen" id="1887" />
+      <edge source="Trev" target="Trev" id="1888" />
+      <edge source="Trev" target="Storgendibal" id="1889" />
+      <edge source="Trev" target="Fallom" id="1890" />
+      <edge source="Dom" target="Dom" id="1891" />
+      <edge source="Dom" target="Avancez" id="1892" />
+      <edge source="Dom" target="Doms" id="1893" />
+      <edge source="Dom" target="Gennerat" id="1894" />
+      <edge source="Dom" target="railla" id="1895" />
+      <edge source="Supposez" target="Victimes" id="1896" />
+      <edge source="Rappelez" target="Bander" id="1897" />
+      <edge source="Rappelez" target="Y" id="1898" />
+      <edge source="Rappelez" target="Rappelez" id="1899" />
+      <edge source="Rappelez" target="Fallom" id="1900" />
+      <edge source="Scychellois" target="Gaïens" id="1901" />
+      <edge source="Gaal" target="Avakim" id="1902" />
+      <edge source="Gaal" target="Chen" id="1903" />
+      <edge source="Gaal" target="Gaal" id="1904" />
+      <edge source="Gaal" target="criard" id="1905" />
+      <edge source="Gaal" target="Coincez" id="1906" />
+      <edge source="Gaal" target="Jerril" id="1907" />
+      <edge source="Gaal" target="Cellomet" id="1908" />
+      <edge source="Gaal" target="Prenez" id="1909" />
+      <edge source="Avakim" target="Naturellement" id="1910" />
+      <edge source="Chen" target="Chen" id="1911" />
+      <edge source="Chen" target="Commissaire" id="1912" />
+      <edge source="pouviez" target="Askone" id="1913" />
+      <edge source="Santanni" target="Korell" id="1914" />
+      <edge source="Anselme" target="Rodric" id="1915" />
+      <edge source="Rodric" target="Rodric" id="1916" />
+      <edge source="Rodric" target="haut-le-corps" id="1917" />
+      <edge source="Fara" target="Fulham" id="1918" />
+      <edge source="Fara" target="Alurin" id="1919" />
+      <edge source="Sermak" target="Souvenez" id="1920" />
+      <edge source="Sermak" target="Sermak" id="1921" />
+      <edge source="Sermak" target="Bort" id="1922" />
+      <edge source="Sermak" target="Walto" id="1923" />
+      <edge source="Sermak" target="Wienis" id="1924" />
+      <edge source="inquiétude" target="Semic" id="1925" />
+      <edge source="inquiétude" target="Parlez" id="1926" />
+      <edge source="inquiétude" target="Fallom" id="1927" />
+      <edge source="Verisof" target="Wienis" id="1928" />
+      <edge source="Verisof" target="Verisof" id="1929" />
+      <edge source="Verisof" target="Cigare" id="1930" />
+      <edge source="Verisof" target="Lepold" id="1931" />
+      <edge source="Wienis" target="Gardez" id="1932" />
+      <edge source="Wienis" target="Lepold" id="1933" />
+      <edge source="Wienis" target="Ton" id="1934" />
+      <edge source="Wienis" target="Wienis" id="1935" />
+      <edge source="Wienis" target="Faute" id="1936" />
+      <edge source="Lepold" target="Lepold" id="1937" />
+      <edge source="Lepold" target="Ton" id="1938" />
+      <edge source="Lepold" target="Viens" id="1939" />
+      <edge source="Gardez" target="Channis" id="1940" />
+      <edge source="Gorov" target="Askone" id="1941" />
+      <edge source="Gorov" target="Pherl" id="1942" />
+      <edge source="Askone" target="Numéro" id="1943" />
+      <edge source="Askone" target="Askone" id="1944" />
+      <edge source="Numéro" target="Numéro" id="1945" />
+      <edge source="Pherl" target="menton" id="1946" />
+      <edge source="Pherl" target="Pherl" id="1947" />
+      <edge source="Pherl" target="considérez" id="1948" />
+      <edge source="menton" target="Hella" id="1949" />
+      <edge source="menton" target="Huxlani" id="1950" />
+      <edge source="Manlio" target="Manlio" id="1951" />
+      <edge source="Manlio" target="Jael" id="1952" />
+      <edge source="Twer" target="Twer" id="1953" />
+      <edge source="Twer" target="Parma" id="1954" />
+      <edge source="Twer" target="Renforcez" id="1955" />
+      <edge source="Twer" target="Jael" id="1956" />
+      <edge source="Twer" target="Hu" id="1957" />
+      <edge source="Twer" target="Mauvais" id="1958" />
+      <edge source="Parlez" target="Dirige" id="1959" />
+      <edge source="Parlez" target="Semic" id="1960" />
+      <edge source="Parlez" target="Parma" id="1961" />
+      <edge source="Parlez" target="montrez" id="1962" />
+      <edge source="Parlez" target="Anthor" id="1963" />
+      <edge source="Hu" target="Mauvais" id="1964" />
+      <edge source="Hu" target="Jael" id="1965" />
+      <edge source="Mauvais" target="Jael" id="1966" />
+      <edge source="Lumière" target="Jael" id="1967" />
+      <edge source="Jael" target="Jael" id="1968" />
+      <edge source="Jael" target="Korell" id="1969" />
+      <edge source="Nul" target="Channis" id="1970" />
+      <edge source="Channis" target="Confiance" id="1971" />
+      <edge source="Channis" target="Voudriez" id="1972" />
+      <edge source="Channis" target="Charnus" id="1973" />
+      <edge source="Channis" target="Tazenda" id="1974" />
+      <edge source="Channis" target="Channis" id="1975" />
+      <edge source="Channis" target="Naturellement" id="1976" />
+      <edge source="Tazenda" target="Tazenda" id="1977" />
+      <edge source="conquérant" target="conquérant" id="1978" />
+      <edge source="conquérant" target="Commason" id="1979" />
+      <edge source="Heureuse" target="Anthor" id="1980" />
+      <edge source="Anthor" target="Anthor" id="1981" />
+      <edge source="Anthor" target="Kleise" id="1982" />
+      <edge source="Anthor" target="Munn" id="1983" />
+      <edge source="Anthor" target="Turbor" id="1984" />
+      <edge source="Anthor" target="Hochement" id="1985" />
+      <edge source="Anthor" target="Naturellement" id="1986" />
+      <edge source="Anthor" target="Permettez" id="1987" />
+      <edge source="Anthor" target="Administrateur" id="1988" />
+      <edge source="Anthor" target="Dirige" id="1989" />
+      <edge source="Anthor" target="Aidez" id="1990" />
+      <edge source="Anthor" target="Semic" id="1991" />
+      <edge source="Turbor" target="Semic" id="1992" />
+      <edge source="Turbor" target="Stettin" id="1993" />
+      <edge source="Turbor" target="Ben" id="1994" />
+      <edge source="Turbor" target="Tipellum" id="1995" />
+      <edge source="Turbor" target="Existe" id="1996" />
+      <edge source="Turbor" target="Amiral" id="1997" />
+      <edge source="Turbor" target="Demeuré" id="1998" />
+      <edge source="Turbor" target="Munn" id="1999" />
+      <edge source="Homir" target="Munn" id="2000" />
+      <edge source="Homir" target="Semic" id="2001" />
+      <edge source="Homir" target="Naturellement" id="2002" />
+      <edge source="Homir" target="Poochie" id="2003" />
+      <edge source="Homir" target="Homir" id="2004" />
+      <edge source="Homir" target="Stettin" id="2005" />
+      <edge source="Homir" target="Filez" id="2006" />
+      <edge source="Homir" target="Meirus" id="2007" />
+      <edge source="Homir" target="Dirige" id="2008" />
+      <edge source="Munn" target="Dirige" id="2009" />
+      <edge source="Munn" target="Stettin" id="2010" />
+      <edge source="Munn" target="Munn" id="2011" />
+      <edge source="Munn" target="Semic" id="2012" />
+      <edge source="Munn" target="Kleise" id="2013" />
+      <edge source="Munn" target="Naturellement" id="2014" />
+      <edge source="Stettin" target="Meirus" id="2015" />
+      <edge source="Stettin" target="Connaissez" id="2016" />
+      <edge source="Stettin" target="rejeton" id="2017" />
+      <edge source="Stettin" target="Papa" id="2018" />
+      <edge source="Meirus" target="Connaissez" id="2019" />
+      <edge source="Barbe-" target="Grise" id="2020" />
+      <edge source="Barbe-" target="Poochie" id="2021" />
+      <edge source="Grise" target="Poochie" id="2022" />
+      <edge source="Poli" target="Poli" id="2023" />
+      <edge source="Papa" target="Maman" id="2024" />
+      <edge source="Papa" target="Fini" id="2025" />
+      <edge source="Papa" target="Donne" id="2026" />
+      <edge source="Papa" target="Partirez" id="2027" />
+      <edge source="Papa" target="Massena" id="2028" />
+      <edge source="Papa" target="Smushyk" id="2029" />
+      <edge source="Dirige" target="Permettez" id="2030" />
+      <edge source="Maman" target="Puissiez" id="2031" />
+      <edge source="Korell" target="Parma" id="2032" />
+      <edge source="Massena" target="Smushyk" id="2033" />
+      <edge source="Naturellement" target="Suivit" id="2034" />
+      <edge source="Naturellement" target="Naturellement" id="2035" />
+      <edge source="Naturellement" target="Bander" id="2036" />
+      <edge source="Naturellement" target="Fallom" id="2037" />
+      <edge source="Gaïens" target="Lois" id="2038" />
+      <edge source="Lizalor" target="Comporellien" id="2039" />
+      <edge source="Lizalor" target="Deniador" id="2040" />
+      <edge source="Lizalor" target="Hiroko" id="2041" />
+      <edge source="Y" target="Deniador" id="2042" />
+      <edge source="Y" target="Bander" id="2043" />
+      <edge source="Y" target="Fallom" id="2044" />
+      <edge source="Vulgarisme" target="Gros" id="2045" />
+      <edge source="Souvenez" target="Souvenez" id="2046" />
+      <edge source="Aurora" target="Aurora" id="2047" />
+      <edge source="Aurora" target="Melpomenia" id="2048" />
+      <edge source="Bander" target="Souriante" id="2049" />
+      <edge source="Bander" target="Comprenez" id="2050" />
+      <edge source="Bander" target="Entrez" id="2051" />
+      <edge source="Bander" target="Fallom" id="2052" />
+      <edge source="Bander" target="Bander" id="2053" />
+      <edge source="Bander" target="Incroyable" id="2054" />
+      <edge source="Bander" target="Jemby" id="2055" />
+      <edge source="Fallom" target="Fallom" id="2056" />
+      <edge source="Fallom" target="Viens" id="2057" />
+      <edge source="Fallom" target="Laisser" id="2058" />
+      <edge source="Fallom" target="Hiroko" id="2059" />
+      <edge source="Fallom" target="Jemby" id="2060" />
+      <edge source="Fallom" target="Daneel" id="2061" />
+      <edge source="Fallom" target="Bonne" id="2062" />
+      <edge source="Fallom" target="Alphans" id="2063" />
+      <edge source="Hmmmm" target="Jemby" id="2064" />
+      <edge source="Viens" target="Viens" id="2065" />
+      <edge source="Alpha" target="Alpha" id="2066" />
+      <edge source="Alpha" target="Bêta" id="2067" />
+      <edge source="Alpha" target="Hiroko" id="2068" />
+      <edge source="Bêta" target="Bêta" id="2069" />
+      <edge source="Hiroko" target="Hiroko" id="2070" />
+      <edge source="Hiroko" target="Fili" id="2071" />
+      <edge source="Hiroko" target="Jemby" id="2072" />
+      <edge source="Hiroko" target="Refermez" id="2073" />
+      <edge source="Hiroko" target="Prenez" id="2074" />
+      <edge source="Hiroko" target="Alphans" id="2075" />
+      <edge source="Hiroko" target="Rendons" id="2076" />
+      <edge source="Jemby" target="Jemby" id="2077" />
+      <edge source="Jemby" target="Daneel" id="2078" />
+      <edge source="Daneel" target="Lois" id="2079" />
+      <edge source="Daneel" target="Rétrospectivement" id="2080" />
+      <edge source="Charte" target="auguste" id="2081" />
+      <edge source="Radole" target="Radole" id="2082" />
+      <edge source="Hella" target="Hella" id="2083" />
+      <edge source="Néotrantor" target="Commason" id="2084" />
+      <edge source="Commason" target="Commason" id="2085" />
+      <edge source="Gilmer" target="Retournez" id="2086" />
+      <edge source="Voire" target="Connaissez" id="2087" />
+      <edge source="Permettez" target="Impasse" id="2088" />
+      <edge source="Fermez" target="détendez" id="2089" />
+      <edge source="Déviations" target="Déviations" id="2090" />
+      <edge source="Considérez" target="Sobhaddartha" id="2091" />
+      <edge source="Gennerat" target="Gennerat" id="2092" />
+      <edge source="Gaï'" target="Gaï'" id="2093" />
+      <edge source="Jerril" target="Jerril" id="2094" />
+      <edge source="Lameth" target="Lameth" id="2095" />
+      <edge source="Bort" target="Bort" id="2096" />
+      <edge source="Parma" target="Parma" id="2097" />
+      <edge source="Maintenez" target="Renforcez" id="2098" />
+      <edge source="Supposons" target="Supposons" id="2099" />
+      <edge source="Extirper" target="Regrettez" id="2100" />
+      <edge source="Regrettez" target="Regrettez" id="2101" />
+      <edge source="Poochie" target="Poochie" id="2102" />
+      <edge source="Ben" target="Tipellum" id="2103" />
+      <edge source="Melpomenia" target="Melpomenia" id="2104" />
+      <edge source="Fili" target="Alphans" id="2105" />
+    </edges>
+  </graph>
+</gexf>
