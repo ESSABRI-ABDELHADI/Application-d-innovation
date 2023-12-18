@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-16">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="distance" type="long" />
+    </attributes>
+    <nodes>
+      <node id="isaac asimov" label="isaac asimov" />
+      <node id="monsieur" label="monsieur" />
+      <node id="buvez" label="buvez" />
+      <node id="cher monsieur" label="cher monsieur" />
+      <node id="général" label="général" />
+      <node id="��" label="��" />
+      <node id="- ah !" label="- ah !" />
+      <node id="hari seldon savant" label="hari seldon savant" />
+      <node id="daluden iv" label="daluden iv" />
+      <node id="hari seldon" label="hari seldon" />
+      <node id="galactica" label="galactica" />
+      <node id="grommela second" label="grommela second" />
+      <node id="déclara forell impatience" label="déclara forell impatience" />
+      <node id="salvor hardin" label="salvor hardin" />
+      <node id="hober mallow" label="hober mallow" />
+      <node id="forell hocha" label="forell hocha" />
+      <node id="iii bel" label="iii bel" />
+      <node id="yume" label="yume" />
+      <node id="comprenez" label="comprenez" />
+      <node id="connaissiez" label="connaissiez" />
+      <node id="trompez" label="trompez" />
+      <node id="détourna" label="détourna" />
+      <node id="&quot; iv" label="&quot; iv" />
+      <node id="cléon ii" label="cléon ii" />
+      <node id="capitaine" label="capitaine" />
+      <node id="prenne air lugubre" label="prenne air lugubre" />
+      <node id="releva" label="releva" />
+      <node id="conquérant" label="conquérant" />
+      <node id="auguste" label="auguste" />
+      <node id="secousse imperceptible" label="secousse imperceptible" />
+      <node id="veux" label="veux" />
+      <node id="tenez" label="tenez" />
+      <node id="rougi" label="rougi" />
+      <node id="pièce" label="pièce" />
+      <node id="visécran" label="visécran" />
+      <node id="bouclier atomique" label="bouclier atomique" />
+      <node id="brodrig balaya arguments interlocuteur" label="brodrig balaya arguments interlocuteur" />
+      <node id="ducem barr" label="ducem barr" />
+      <node id="ducem barr leva siège" label="ducem barr leva siège" />
+      <node id="subtil vilenie" label="subtil vilenie" />
+      <node id="l'empereur" label="l'empereur" />
+      <node id="&quot; ii" label="&quot; ii" />
+      <node id="&quot; sourit" label="&quot; sourit" />
+      <node id="gaillard" label="gaillard" />
+      <node id="psychosonde" label="psychosonde" />
+      <node id="bouclier brûlé" label="bouclier brûlé" />
+      <node id="enfuyez pas" label="enfuyez pas" />
+      <node id="blouse" label="blouse" />
+      <node id="arôme cabine" label="arôme cabine" />
+      <node id="hari" label="hari" />
+      <node id="rappelez" label="rappelez" />
+      <node id="amell brodrig" label="amell brodrig" />
+      <node id="hein" label="hein" />
+      <node id="lathan devers inconnu" label="lathan devers inconnu" />
+      <node id="- attendez" label="- attendez" />
+      <node id="tenez !" label="tenez !" />
+      <node id="regardez" label="regardez" />
+      <node id="x lathan" label="x lathan" />
+      <node id="forell" label="forell" />
+      <node id="toran" label="toran" />
+      <node id="bayta" label="bayta" />
+      <node id="manchot" label="manchot" />
+      <node id="cria toran" label="cria toran" />
+      <node id="tira" label="tira" />
+      <node id="grommela fran" label="grommela fran" />
+      <node id="divan bas" label="divan bas" />
+      <node id="apercevrez" label="apercevrez" />
+      <node id="kalgan" label="kalgan" />
+      <node id="seigneur kalgan" label="seigneur kalgan" />
+      <node id="fran vieux" label="fran vieux" />
+      <node id="connaissez galaxie" label="connaissez galaxie" />
+      <node id="pouviez établir contact" label="pouviez établir contact" />
+      <node id="prochaine" label="prochaine" />
+      <node id="han pritcher" label="han pritcher" />
+      <node id="seuil franchi" label="seuil franchi" />
+      <node id="réprimandes" label="réprimandes" />
+      <node id="replaça" label="replaça" />
+      <node id="mulet" label="mulet" />
+      <node id="toran bayta" label="toran bayta" />
+      <node id="clown" label="clown" />
+      <node id="toran acquiesça" label="toran acquiesça" />
+      <node id="haussa voix" label="haussa voix" />
+      <node id="estomac glacer" label="estomac glacer" />
+      <node id="- rendez" label="- rendez" />
+      <node id="fuyard" label="fuyard" />
+      <node id="- mulet" label="- mulet" />
+      <node id="perdez temps remerciements" label="perdez temps remerciements" />
+      <node id="madame" label="madame" />
+      <node id="magnifico" label="magnifico" />
+      <node id="finirez" label="finirez" />
+      <node id="pouvez" label="pouvez" />
+      <node id="connaissez" label="connaissez" />
+      <node id="attendez mulet" label="attendez mulet" />
+      <node id="madame révolutionnaire" label="madame révolutionnaire" />
+      <node id="balbutia magnifico" label="balbutia magnifico" />
+      <node id="deviez" label="deviez" />
+      <node id="magnifico filer" label="magnifico filer" />
+      <node id="besoin savait" label="besoin savait" />
+      <node id="perdez temps" label="perdez temps" />
+      <node id="leva demi" label="leva demi" />
+      <node id="retour kalgan" label="retour kalgan" />
+      <node id="gorge serrée" label="gorge serrée" />
+      <node id="hurla indbur" label="hurla indbur" />
+      <node id="kalgan pénétré" label="kalgan pénétré" />
+      <node id="perpétuel jardin" label="perpétuel jardin" />
+      <node id="failli tomber" label="failli tomber" />
+      <node id="mangin planète iss" label="mangin planète iss" />
+      <node id="mnemon" label="mnemon" />
+      <node id="mangin" label="mangin" />
+      <node id="messieurs" label="messieurs" />
+      <node id="magnifico jaillit" label="magnifico jaillit" />
+      <node id="dard lumière" label="dard lumière" />
+      <node id="indbur iii" label="indbur iii" />
+      <node id="mulet terel" label="mulet terel" />
+      <node id="rappel" label="rappel" />
+      <node id="terminus bombardée" label="terminus bombardée" />
+      <node id="releva indbur" label="releva indbur" />
+      <node id="blonde" label="blonde" />
+      <node id="menton" label="menton" />
+      <node id="cynisme hella" label="cynisme hella" />
+      <node id="murmura hella" label="murmura hella" />
+      <node id="magnifico aussi" label="magnifico aussi" />
+      <node id="magnifico." label="magnifico." />
+      <node id="marmonna bayta sandwich" label="marmonna bayta sandwich" />
+      <node id="sandwich" label="sandwich" />
+      <node id="sentez libre" label="sentez libre" />
+      <node id="grommela" label="grommela" />
+      <node id="supposez" label="supposez" />
+      <node id="brume laiteuse" label="brume laiteuse" />
+      <node id="newton" label="newton" />
+      <node id="miran" label="miran" />
+      <node id="marmonna capitaine" label="marmonna capitaine" />
+      <node id="capitaine serra" label="capitaine serra" />
+      <node id="renversa arrière" label="renversa arrière" />
+      <node id="hommes fondation" label="hommes fondation" />
+      <node id="étais kalgan" label="étais kalgan" />
+      <node id="mulet minutieux" label="mulet minutieux" />
+      <node id="mulet astucieux" label="mulet astucieux" />
+      <node id="jeton tapis" label="jeton tapis" />
+      <node id="sammin" label="sammin" />
+      <node id="grand" label="grand" />
+      <node id="sachant ignorance" label="sachant ignorance" />
+      <node id="barres" label="barres" />
+      <node id="gente" label="gente" />
+      <node id="néotrantor" label="néotrantor" />
+      <node id="dagobert ix" label="dagobert ix" />
+      <node id="empereur galaxie" label="empereur galaxie" />
+      <node id="dagobert x" label="dagobert x" />
+      <node id="garçon" label="garçon" />
+      <node id="anacréon" label="anacréon" />
+      <node id="rende" label="rende" />
+      <node id="magnifico yeux" label="magnifico yeux" />
+      <node id="magnifico hocha tête" label="magnifico hocha tête" />
+      <node id="commason" label="commason" />
+      <node id="magnifico retourna" label="magnifico retourna" />
+      <node id="flattez pas" label="flattez pas" />
+      <node id="tendit coffret" label="tendit coffret" />
+      <node id="lee" label="lee" />
+      <node id="� mulet" label="� mulet" />
+      <node id="don mulet" label="don mulet" />
+      <node id="merveilleux mulet" label="merveilleux mulet" />
+      <node id="thé refroidi" label="thé refroidi" />
+      <node id="vida" label="vida" />
+      <node id="voudra" label="voudra" />
+      <node id="crois mulet" label="crois mulet" />
+      <node id="magnifico dort" label="magnifico dort" />
+      <node id="vu magnifico" label="vu magnifico" />
+      <node id="magnifico assis" label="magnifico assis" />
+      <node id="magnifico mulet faux" label="magnifico mulet faux" />
+      <node id="regrette" label="regrette" />
+      <node id="utilisez cerveau" label="utilisez cerveau" />
+      <node id="grandi" label="grandi" />
+      <node id="fracas détonation" label="fracas détonation" />
+      <node id="magnifico noyé" label="magnifico noyé" />
+      <node id="mulet magnifico" label="mulet magnifico" />
+      <node id="magnifico mulet" label="magnifico mulet" />
+      <node id="magnifico debout" label="magnifico debout" />
+      <node id="pouvez essayer" label="pouvez essayer" />
+      <node id="magnifico leva yeux" label="magnifico leva yeux" />
+      <node id="pouvez pas" label="pouvez pas" />
+    </nodes>
+    <edges>
+      <edge source="monsieur" target="général" id="0">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="monsieur" target="buvez" id="1">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="monsieur" target="monsieur" id="2">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="monsieur" target="clown" id="3">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="général" target="pièce" id="4">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="général" target="releva" id="5">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="général" target="grand" id="6">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="général" target="gaillard" id="7">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="général" target="psychosonde" id="8">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="général" target="messieurs" id="9">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="général" target="hein" id="10">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="général" target="capitaine" id="11">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="comprenez" target="rappel" id="12">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="comprenez" target="veux" id="13">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="capitaine" target="capitaine" id="14">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="capitaine" target="pouvez" id="15">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="capitaine" target="clown" id="16">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="capitaine" target="madame" id="17">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="capitaine" target="grand" id="18">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="capitaine" target="deviez" id="19">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="capitaine" target="pièce" id="20">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="capitaine" target="hein" id="21">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="conquérant" target="conquérant" id="22">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="veux" target="pièce" id="23">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="pièce" target="visécran" id="24">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="pièce" target="grand" id="25">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="gaillard" target="psychosonde" id="26">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="apercevrez" target="pouvez" id="27">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="réprimandes" target="replaça" id="28">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="clown" target="clown" id="29">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="clown" target="grand" id="30">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="pouvez" target="grand" id="31">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="pouvez" target="deviez" id="32">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="pouvez" target="pouvez" id="33">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="sandwich" target="sandwich" id="34">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="grommela" target="garçon" id="35">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="grand" target="grand" id="36">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="grand" target="garçon" id="37">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
