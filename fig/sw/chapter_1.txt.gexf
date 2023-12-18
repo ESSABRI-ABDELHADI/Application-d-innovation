@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-16">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="distance" type="long" />
+    </attributes>
+    <nodes>
+      <node id="d’" label="d’" />
+      <node id="sammy" label="sammy" />
+      <node id="n’" label="n’" />
+      <node id="vince barrett" label="vince barrett" />
+      <node id="voulais-tu que" label="voulais-tu que" />
+      <node id="sammy l’" label="sammy l’" />
+      <node id="baley haussa" label="baley haussa" />
+      <node id="julius enderby" label="julius enderby" />
+      <node id="baley" label="baley" />
+      <node id="m’" label="m’" />
+      <node id="enderby leva" label="enderby leva" />
+      <node id="s’habituer" label="s’habituer" />
+      <node id="qu’" label="qu’" />
+      <node id="baley n’" label="baley n’" />
+      <node id="s’exécuter" label="s’exécuter" />
+      <node id="pièce" label="pièce" />
+      <node id="excusez-moi" label="excusez-moi" />
+      <node id="verres nez" label="verres nez" />
+      <node id="lije" label="lije" />
+      <node id="s’" label="s’" />
+      <node id="julius" label="julius" />
+      <node id="jusqu’" label="jusqu’" />
+      <node id="j’" label="j’" />
+      <node id="lassa regarder fenêtre" label="lassa regarder fenêtre" />
+      <node id="dépit" label="dépit" />
+      <node id="baley jeta" label="baley jeta" />
+      <node id="surplus" label="surplus" />
+      <node id="n’aimez spaciens" label="n’aimez spaciens" />
+      <node id="nemennuh sarton" label="nemennuh sarton" />
+      <node id="j’arrivais" label="j’arrivais" />
+      <node id="catégorie c. 5" label="catégorie c. 5" />
+      <node id="réussiriez" label="réussiriez" />
+      <node id="enderby" label="enderby" />
+      <node id="baley leva moitié" label="baley leva moitié" />
+      <node id="pierre" label="pierre" />
+      <node id="jacques" label="jacques" />
+      <node id="paul" label="paul" />
+      <node id="baley écarquilla" label="baley écarquilla" />
+    </nodes>
+    <edges>
+      <edge source="d’" target="s’" id="0">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="n’" id="1">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="pièce" id="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="j’" id="3">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="m’" id="4">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="qu’" id="5">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="d’" id="6">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="réussiriez" id="7">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="j’" id="8">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="s’" id="9">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="m’" id="10">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="surplus" id="11">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="n’" id="12">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="qu’" id="13">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="réussiriez" id="14">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="s’" id="15">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="j’" id="16">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="qu’" id="17">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="s’" id="18">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="réussiriez" id="19">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="pièce" target="s’" id="20">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="j’" id="21">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="s’" id="22">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="jusqu’" target="j’" id="23">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="j’" target="j’" id="24">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
